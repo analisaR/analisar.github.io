@@ -22,7 +22,7 @@ A analisaR é um empresa recém-criada para a prestação de serviços em análi
 
 Por meio do Grupo Natureza, Conservação e Sociedade (Grupo NSC), vamos analisar os indicadores de resultados, desempenho e impacto de oito mega projetos no Cerrado que fazem parte do [PIB/FIP (Plano de Investimentos do Brasil para o Fundo de Investimento Florestal)](http://fip.mma.gov.br). Um grande oportunidade para avaliarmos o sucesso das ações de conservação promovidas por essa iniciativa do governo federal e que faz parte de um programa internacional de longo prazo. 
 
-Confira a primeira [reunião online](http://fip.mma.gov.br/projetos-do-fundo-de-investimento-florestal-passam-por-avaliacao-de-impactos/?fbclid=IwAR0vfrFKP9KaiYg08k-AHv5AxHh_lixam-xD4G3TCxfTDpviXUojWry8dIs) entre nós do FIP Avaliação, com o FIP Coordenação representado pela [Funatura](https://www.funatura.org.br) e com os gestores dos oito projetos do programa. Trabalharemos com nove camadas de análise e mais de dez interações entre modalidades e componentes de avaliação. 
+Confira a primeira [reunião online](http://fip.mma.gov.br/projetos-do-fundo-de-investimento-florestal-passam-por-avaliacao-de-impactos/?fbclid=IwAR0vfrFKP9KaiYg08k-AHv5AxHh_lixam-xD4G3TCxfTDpviXUojWry8dIs) entre o FIP Avaliação, o FIP Coordenação representado pela [Funatura](https://www.funatura.org.br) e os gestores dos oito projetos do programa. Trabalharemos com nove camadas de análise e mais de dez interações entre modalidades e componentes de avaliação. 
 
 ## Mídias sociais
 
