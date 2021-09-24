@@ -2,4 +2,7 @@ theme: jekyll-theme-minimal
 title: analisaR
 description: Análise e visualização de dados socioambientais e de biodiversidade
 logo: "analisaR_logomarca.png"
+email: francesca@alumni.usp.br
 show_downloads: false
+ social_links:
+    twitter: analisaR_dados
