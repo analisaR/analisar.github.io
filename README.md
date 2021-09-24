@@ -1,18 +1,18 @@
 # Sobre a empresa
 
-A analisaR é um empresa recém criada (Agosto de 2021) para a prestação de serviços em análise e visualização de dados socioambientais e de biodiversidade. A empresa tem nome de mulher e a letra R foi acrescentada para indicar que trabalhamos exclusivamente com o R, uma linguagem de código aberto que garante a transparência e a reprodutibilidade nos resultados gerados. A tipografia da nossa logo mistura caracteres que simbolizam o ambiente de trabalho dentro do R. As cores cinza e azul também são as mesmas encontradas na paleta de cores da logomarca do R. A engrenagem significa "análises rodando", uma gíria utilizada na modelagem estatística. 
+A analisaR é um empresa recém criada para a prestação de serviços em análise e visualização de dados socioambientais e de biodiversidade. A empresa tem nome de mulher e a letra R foi acrescentada para indicar que trabalhamos exclusivamente com o R, uma linguagem de código aberto que garante a transparência e a reprodutibilidade nos resultados gerados. A tipografia da nossa logo mistura caracteres que simbolizam o ambiente de trabalho dentro do R. As cores cinza e azul também são as mesmas encontradas na paleta de cores da logomarca do R. A engrenagem significa "análises rodando", uma gíria utilizada na modelagem estatística. 
 
 ## Assessoria e consultoria em: 
 
-- Gerenciamento de big data; 
+- Gerenciamento de big data
 
-- Análises exploratórias de dados; 
+- Análises exploratórias de dados
 
-- Análises quantitativas e qualitativas; 
+- Análises quantitativas e qualitativas
 
-- Modelagem ecológica; 
+- Modelagem ecológica 
 
-- Entre outras análises.
+- Entre outras análises
 
 ## Nosso(s) cliente(s)
 
@@ -34,10 +34,9 @@ Confira a primeira [reunião online](http://fip.mma.gov.br/projetos-do-fundo-de-
 
 A analisaR é um empresa idealizada por [Francesca Palmeira](https://fblpalmeira.github.io), uma mistura de bióloga de campo e de computador com mais de vinte anos de experiência em atividades de pesquisa, ensino e extensão.
 
+Email: [francesca@alumni.usp.br](mailto:francesca@alumni.usp.br)
+
 ## Suporte
 
-A manutenção deste website também é feita por [Francesca Palmeira](https://fblpalmeira.github.io)
+A manutenção deste website também é feita por [Francesca Palmeira](mailto:francesca@alumni.usp.br)
 
-## Email
-
-[francesca@alumni.usp.br](mailto:francesca@alumni.usp.br)
