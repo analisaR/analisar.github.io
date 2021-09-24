@@ -34,8 +34,9 @@ Confira a primeira [reunião online](http://fip.mma.gov.br/projetos-do-fundo-de-
 
 ## Contato
 
-A analisaR é um empresa idealizada por [Francesca Palmeira](https://fblpalmeira.github.io), uma mistura de bióloga de campo e de computador com mais de vinte anos de experiência em atividades de pesquisa, ensino e extensão.
+A analisaR é um empresa idealizada por [Francesca Palmeira](mailto:francesca@alumni.usp.br), uma mistura de bióloga de campo e de computador com mais de vinte anos de experiência em atividades de pesquisa, ensino e extensão.
 
+Website: [https://fblpalmeira.github.io](https://fblpalmeira.github.io) 
 Email: [francesca@alumni.usp.br](mailto:francesca@alumni.usp.br)
 
 ## Suporte
