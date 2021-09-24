@@ -1,8 +1,8 @@
-# Sobre a empresa
+## Sobre a empresa
 
 A analisaR é um empresa recém criada para a prestação de serviços em análise e visualização de dados socioambientais e de biodiversidade. A empresa tem nome de mulher e a letra R foi acrescentada para indicar que trabalhamos exclusivamente com o R, uma linguagem de código aberto que garante a transparência e a reprodutibilidade nos resultados gerados. A tipografia da nossa logo mistura caracteres que simbolizam o ambiente de trabalho dentro do R. As cores cinza e azul também são as mesmas encontradas na paleta de cores da logomarca do R. A engrenagem significa "análises rodando", uma gíria utilizada na modelagem estatística. 
 
-## Assessoria e consultoria em: 
+## Serviços prestados 
 
 - Gerenciamento de big data
 
@@ -14,7 +14,7 @@ A analisaR é um empresa recém criada para a prestação de serviços em análi
 
 - Entre outras análises
 
-## Nosso(s) cliente(s)
+## Nossos clientes
 
 ### Grupo NSC (FIP Avaliação)
 
@@ -39,4 +39,3 @@ Email: [francesca@alumni.usp.br](mailto:francesca@alumni.usp.br)
 ## Suporte
 
 A manutenção deste website também é feita por [Francesca Palmeira](mailto:francesca@alumni.usp.br)
-
