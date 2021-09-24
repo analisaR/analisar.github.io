@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Sobre a empresa
 
-You can use the [editor on GitHub](https://github.com/analisaR/analisar.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+A analisaR é um empresa recém criada para a prestação de serviços em análise e visualização de dados socioambientais e de biodiversidade. A empresa tem nome de mulher e a letra R foi acrescentada para indicar que trabalhamos exclusivamente com o R, uma linguagem de código aberto que garante a transparência e a reprodutibilidade nos resultados gerados. A tipografia da nossa logo mistura caracteres que simbolizam o ambiente de trabalho dentro do R. As cores cinza e azul também são as mesmas encontradas na paleta de cores da logomarca do R. A engrenagem significa "análises rodando", uma gíria utilizada na modelagem estatística. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Assessoria e consultoria em: 
 
-### Markdown
+- Gerenciamento de BigData; 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Análises exploratórias de dados; 
 
-```markdown
-Syntax highlighted code block
+- Análises quantitativas e qualitativas; 
 
-# Header 1
-## Header 2
-### Header 3
+- Modelagem ecológica; 
 
-- Bulleted
-- List
+## Nossos clientes
 
-1. Numbered
-2. List
+### Grupo NSC (FIP Avaliação)
 
-**Bold** and _Italic_ and `Code` text
+Por meio do Grupo Natureza, Conservação e Sociedade (Grupo NSC), vamos analisar os indicadores de resultados, desempenho e impacto de oito mega projetos no Cerrado que fazem parte do [PIB/FIP (Plano de Investimentos do Brasil para o Fundo de Investimento Florestal)](http://fip.mma.gov.br/). Um grande oportunidade para avaliarmos o sucesso das ações de conservação promovidas por essa iniciativa do governo federal e que faz parte de um programa internacional de longo prazo. 
 
-[Link](url) and ![Image](src)
-```
+Confira a primeira [reunião online](http://fip.mma.gov.br/projetos-do-fundo-de-investimento-florestal-passam-por-avaliacao-de-impactos/?fbclid=IwAR0vfrFKP9KaiYg08k-AHv5AxHh_lixam-xD4G3TCxfTDpviXUojWry8dIs) entre o FIP Avaliação, o FIP Coordenação representado pela [Funatura](https://www.funatura.org.br/) e os gestores dos oito projetos do programa. Trabalharemos com nove camadas de análise e mais de dez interações entre modalidades e componentes de avaliação. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Contato
 
-### Jekyll Themes
+A analisaR é um empresa idealizada por [Francesca Belem Lopes Palmeira](https://fblpalmeira.github.io/), uma mistura de bióloga de campo e de computador com mais de vinte anos de experiência em atividades de pesquisa, ensino e extensão.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/analisaR/analisar.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Email: [francesca@alumni.usp.br](mailto:francesca@alumni.usp.br)
 
-### Support or Contact
+## Mídias sociais
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Twitter](https://twitter.com/analisaR_dados)
+
+[Instagram](https://www.instagram.com/analisar_dados/) 
+
+[Facebook](https://www.facebook.com/analisaR.dadosambientais/)
