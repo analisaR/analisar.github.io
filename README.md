@@ -10,7 +10,7 @@ A analisaR é um empresa recém criada para a prestação de serviços em análi
 
 - Análises quantitativas e qualitativas
 
-- Modelagem ecológica 
+- Modelagem estatística
 
 - Assessoria, mentoria e treinamento em análise de dados
 
