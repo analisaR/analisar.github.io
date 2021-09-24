@@ -4,7 +4,7 @@ A analisaR é um empresa recém criada para a prestação de serviços em análi
 
 ## Assessoria e consultoria em: 
 
-- Gerenciamento de BigData; 
+- Gerenciamento de big data; 
 
 - Análises exploratórias de dados; 
 
@@ -12,9 +12,11 @@ A analisaR é um empresa recém criada para a prestação de serviços em análi
 
 - Modelagem ecológica; 
 
-## Nosso primeiro cliente
+- Entre outras análises.
 
-### Grupo NSC (FIP Avaliação)
+## Nosso(s) cliente(s)
+
+#### Grupo NSC (FIP Avaliação)
 
 Por meio do Grupo Natureza, Conservação e Sociedade (Grupo NSC), vamos analisar os indicadores de resultados, desempenho e impacto de oito mega projetos no Cerrado que fazem parte do [PIB/FIP (Plano de Investimentos do Brasil para o Fundo de Investimento Florestal)](http://fip.mma.gov.br). Um grande oportunidade para avaliarmos o sucesso das ações de conservação promovidas por essa iniciativa do governo federal e que faz parte de um programa internacional de longo prazo. 
 
