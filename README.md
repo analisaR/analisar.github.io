@@ -35,3 +35,7 @@ Email: [francesca@alumni.usp.br](mailto:francesca@alumni.usp.br)
 [Instagram](https://www.instagram.com/analisar_dados) 
 
 [Facebook](https://www.facebook.com/analisaR.dadosambientais)
+
+## Suporte
+
+Este website foi desenvolvido por [Francesca Belem Lopes Palmeira](https://fblpalmeira.github.io)
