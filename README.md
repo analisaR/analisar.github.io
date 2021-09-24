@@ -38,4 +38,4 @@ Email: [francesca@alumni.usp.br](mailto:francesca@alumni.usp.br)
 
 ## Suporte
 
-A manutenção deste website também é feita por [Francesca Palmeira](mailto:francesca@alumni.usp.br)
+A manutenção deste website também é feita por [Francesca Palmeira](mailto:francesca@alumni.usp.br).
