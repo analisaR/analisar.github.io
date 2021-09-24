@@ -40,6 +40,6 @@ Website: [fblpalmeira.github.io](https://fblpalmeira.github.io)
 
 Email: [francesca@alumni.usp.br](mailto:francesca@alumni.usp.br)
 
-#### Suporte
+## Suporte
 
-A manutenção deste website também é feita por [Francesca Palmeira](mailto:francesca@alumni.usp.br).
+A manutenção desta página também é feita por [Francesca Palmeira](mailto:francesca@alumni.usp.br).
