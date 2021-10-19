@@ -16,7 +16,6 @@ A analisaR é um empresa recém-criada para a prestação de serviços em análi
 
 - Assessoria, mentoria e treinamento em análise de dados
 
-- Entre outros serviços 
 
 ## Nossos clientes
 
