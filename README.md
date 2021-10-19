@@ -4,7 +4,9 @@ A analisaR é um empresa recém-criada para a prestação de serviços em análi
 
 ## Serviços oferecidos
 
-- Gerenciamento de big data
+- Estruturação de banco de dados 
+
+- Gerenciamento de base de dados
 
 - Análises exploratórias de dados
 
