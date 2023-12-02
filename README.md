@@ -20,6 +20,8 @@ A analisaR é um empresa recém-criada para a prestação de serviços em análi
 
 A analisaR é uma [empresa com o DNA USP](https://hubusp.inovacao.usp.br/empresas)! Prestamos serviços em análise e visualização de dados socioambientais e de biodiversidade garantindo a transparência e a reprodutibilidade dos resultados gerados.
 
+<img src="" align="right" width="400px">
+
 ## Nossos clientes
 
 #### Grupo NSC (FIP Avaliação)
