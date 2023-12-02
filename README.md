@@ -32,7 +32,7 @@ Confira a primeira [reunião online](http://fip.mma.gov.br/projetos-do-fundo-de-
 
 #### Instituto Onça-pintada 
 
-Analisamos dados de movimento e de área de vida provenientes de colares GPS do Projeto Corredor das Onças gerenciado pelo Instituto Onçca-pintada (IOP). 
+Analisamos dados de movimento das oças-pintadas monitoradas com colares GPS no Projeto Corredor das Onças do Instituto Onçca-pintada (IOP). 
 
 ## Mídias sociais
 
