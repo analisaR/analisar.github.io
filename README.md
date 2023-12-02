@@ -18,9 +18,9 @@ A analisaR é um empresa recém-criada para a prestação de serviços em análi
 
 ### Empresa com DNA USP
 
-A analisaR é uma [empresa com o DNA USP](https://hubusp.inovacao.usp.br/empresas)! Prestamos serviços em análise e visualização de dados socioambientais e de biodiversidade garantindo a transparência e a reprodutibilidade dos resultados gerados.
+<img src="https://github.com/analisaR/analisar.github.io/blob/main/analisaR_DNA_USP.png" align="right" width="100px"> 
 
-<img src="" align="right" width="400px">
+A analisaR é uma [empresa com o DNA USP](https://hubusp.inovacao.usp.br/empresas)! Prestamos serviços em análise e visualização de dados socioambientais e de biodiversidade garantindo a transparência e a reprodutibilidade dos resultados gerados.
 
 ## Nossos clientes
 
