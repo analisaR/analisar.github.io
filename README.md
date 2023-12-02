@@ -6,7 +6,9 @@ A analisaR é um empresa recém-criada para a prestação de serviços em análi
 
 - Estruturação e gerenciamento de banco de dados 
 
-- Análises exploratórias, quantitativas e qualitativas
+- Análises exploratórias
+
+- Análises quantitativas e qualitativas
 
 - Modelagem estatística
 
