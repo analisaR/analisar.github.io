@@ -14,7 +14,7 @@ A analisaR é um empresa recém-criada para a prestação de serviços em análi
 
 - Modelagem estatística
 
-- Assessoria, mentoria e treinamento em análise de dados
+- Assessoria em análise de dados
 
 ### Empresa com DNA USP
 
