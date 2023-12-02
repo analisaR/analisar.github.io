@@ -32,6 +32,12 @@ Por meio do Grupo Natureza, Conservação e Sociedade (Grupo NSC), analisamos os
 
 Confira a primeira [reunião online](http://fip.mma.gov.br/projetos-do-fundo-de-investimento-florestal-passam-por-avaliacao-de-impactos/?fbclid=IwAR0vfrFKP9KaiYg08k-AHv5AxHh_lixam-xD4G3TCxfTDpviXUojWry8dIs) entre (i) o FIP Avaliação, (ii) o FIP Coordenação representado pela [Funatura](https://www.funatura.org.br) e (iii) os gestores dos oito projetos do programa. Trabalhamos com nove camadas de análise e mais de dez interações entre modalidades e componentes de avaliação. 
 
+Confira a [Oficina Intersetorial Reflexões sobre os Avanços dos Projetos – FIP ABC, Paisagens Rurais e Macaúba no contexto do Programa de Investimento Florestal do Brasil PIB/FIP](http://fip.funatura.org.br/projetos-abc-paisagens-rurais-e-macauba-compartilham-avancos/). O objetivo foi compartilhar os resultados e avanços dos projetos, ampliar o canal de diálogo com os beneficiários finais: produtores rurais, técnicos de campo e gestores regionais dos projetos, além de coletar elementos para avaliação sistemática do programa.
+
+Confira a [Oficina Intersetorial Reflexões sobre o Avanço dos Projetos - FIP Monitoramento Cerrado e FIP Inventário Florestal Nacional (IFN) do Plano de Investimentos do Brasil para o Programa de Investimentos Florestais (PIB/FIP)](http://fip.funatura.org.br/projetos-inventario-florestal-nacional-e-monitoramento-cerrado-trocam-experiencias-em-oficina-on-line/#more-3035). O objetivo foi compartilhar os resultados e avanços dos projetos; ampliar o canal de diálogo com os beneficiários finais – técnicos e gestores de órgãos de meio ambiente, lideranças e organizações da sociedade civil e da iniciativa privada beneficiárias dos projetos; além de coletar elementos para avaliação que está sendo realizada pelo Grupo Natureza, Sociedade e Conservação (NSC). 
+
+Confira também a [Oficina FIP DGM-CAR no âmbito do Programa de Investimento Florestal do Brasil PIB/FIP](https://www.youtube.com/watch?v=LLSkK0nQH0Q).
+
 #### Instituto Onça-pintada 
 
 Analisamos dados de movimento das onças-pintadas monitoradas com colares GPS no Projeto Corredor das Onças do Instituto Onça-pintada (IOP). 
