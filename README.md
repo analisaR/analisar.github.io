@@ -28,7 +28,7 @@ A analisaR é uma [empresa com o DNA USP](https://hubusp.inovacao.usp.br/empresa
 
 Por meio do Grupo Natureza, Conservação e Sociedade (Grupo NSC), analisamos os indicadores de resultados, desempenho e impacto de oito mega projetos no Cerrado que fazem parte do [PIB/FIP (Plano de Investimentos do Brasil para o Fundo de Investimento Florestal)](http://fip.mma.gov.br). Uma grande oportunidade para avaliarmos o sucesso das ações de conservação promovidas por essa iniciativa do governo federal e que faz parte de um programa internacional de longo prazo. 
 
-Confira a primeira [reunião online](http://fip.mma.gov.br/projetos-do-fundo-de-investimento-florestal-passam-por-avaliacao-de-impactos/?fbclid=IwAR0vfrFKP9KaiYg08k-AHv5AxHh_lixam-xD4G3TCxfTDpviXUojWry8dIs) entre o FIP Avaliação, o FIP Coordenação representado pela [Funatura](https://www.funatura.org.br) e os gestores dos oito projetos do programa. Trabalhamos com nove camadas de análise e mais de dez interações entre modalidades e componentes de avaliação. 
+Confira a primeira [reunião online](http://fip.mma.gov.br/projetos-do-fundo-de-investimento-florestal-passam-por-avaliacao-de-impactos/?fbclid=IwAR0vfrFKP9KaiYg08k-AHv5AxHh_lixam-xD4G3TCxfTDpviXUojWry8dIs) entre (i) o FIP Avaliação, (ii) o FIP Coordenação representado pela [Funatura](https://www.funatura.org.br) e (iii) os gestores dos oito projetos do programa. Trabalhamos com nove camadas de análise e mais de dez interações entre modalidades e componentes de avaliação. 
 
 #### Instituto Onça-pintada 
 
