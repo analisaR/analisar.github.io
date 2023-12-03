@@ -16,7 +16,7 @@ A analisaR é um empresa recém-criada para a prestação de serviços em análi
   
 - Assessoria em análise de dados
 
-### Empresa com DNA USP
+## Empresa com DNA USP
 
 <img src="analisaR_DNA_USP.png" align="right" width="100px"> 
 
