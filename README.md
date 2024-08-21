@@ -71,7 +71,7 @@ Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de e
   - [Índice Potencial de Conflito (PCI)](https://github.com/fblpalmeira/pcir)
 
 - Análise de indicadores:
-  - Análise do desepenho de projetos de monitoramento e avaliação 
+  - Análise do desempenho de projetos de monitoramento e avaliação 
   - [Avaliação dos programas de pós-graduação na Área da Biodiversidade](https://github.com/fblpalmeira/PPG_CAPES)
 
 - Análise de mídias sociais:
