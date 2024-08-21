@@ -8,17 +8,22 @@ Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de e
 
 ## Serviços oferecidos
 
-- Estruturação e gerenciamento de banco de dados: [Carnivore Neotropical Datapaper](https://github.com/fblpalmeira/Neotropical_Carnivores) 
+- Estruturação e gerenciamento de banco de dados
 
+- Criação e manutenção de repositórios
+  
+- Assessoria em análise de dados
+  
 - Análises exploratórias
 
 - Análises estatísticas
   
 - Modelagem ecológica
 
-- Criação e manutenção de repositórios
-  
-- Assessoria em análise de dados
+### Exemplo de estruturação de banco de dados
+
+- Organização de datapaper:
+  - [Neotropical Carnivores Datapaper](https://github.com/fblpalmeira/Neotropical_Carnivores)
 
 ### Descrição de algumas análises, modelagens e visualizações
 
