@@ -97,7 +97,7 @@ Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de e
 
 #### Grupo NSC (FIP Avaliação)
 
-Por meio do Grupo Natureza, Conservação e Sociedade (Grupo NSC), analisamos os indicadores de resultados, desempenho e impacto de oito mega projetos no Cerrado que fazem parte do [PIB/FIP (Plano de Investimentos do Brasil para o Fundo de Investimento Florestal)](http://fip.mma.gov.br). Uma grande oportunidade para avaliarmos o sucesso das ações de conservação promovidas por essa iniciativa do governo federal e que faz parte de um programa internacional de longo prazo. 
+Por meio do Grupo Natureza, Conservação e Sociedade (Grupo NSC), analisei os indicadores de desempenho de oito mega projetos no Cerrado que fazem parte do [PIB/FIP (Plano de Investimentos do Brasil para o Fundo de Investimento Florestal)](http://fip.mma.gov.br). Uma grande oportunidade para avaliar o sucesso das ações de conservação promovidas por essa iniciativa do governo federal e que faz parte de um programa internacional de longo prazo. 
 
 Confira a primeira [reunião online](http://fip.funatura.org.br/projetos-do-fundo-de-investimento-florestal-passam-por-avaliacao-de-impactos/#more-2956) entre (i) o FIP Avaliação, (ii) o FIP Coordenação representado pela [Funatura](https://www.funatura.org.br) e (iii) os gestores dos oito projetos do programa. Trabalhamos com nove camadas de análise e mais de dez interações entre modalidades e componentes de avaliação. 
 
@@ -109,7 +109,7 @@ Confira também a [Oficina FIP DGM-CAR no âmbito do Programa de Investimento Fl
 
 #### Instituto Onça-pintada 
 
-Analisamos dados de movimento das onças-pintadas monitoradas com colares GPS no Projeto Corredor das Onças do [Instituto Onça-pintada (IOP)](https://jaguars.org/). 
+Analisamos dados de movimento das onças-pintadas monitoradas com colares GPS no Projeto Corredor das Onças do Instituto Onça-pintada (IOP).
 
 Preprint: Palmeira FBL, Jacomo AT, Trinca CT, de Araujo GR, Alves GB, de Oliveira G, Moreira RA and Silveira L. Jaguar Habitat Use and Behavior in Agricultural Land. [Available at SSRN] (https://ssrn.com/abstract=4841901).
 
