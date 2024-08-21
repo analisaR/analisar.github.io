@@ -4,7 +4,7 @@ A analisaR é uma empresa criada em 2020 por Francesca Palmeira para a prestaç�
 
 ## Francesca Palmeira: Minibio
 
-Sou uma mistura de bióloga de campo e de computador. Estou interessada em compreender como as mudanças ambientais podem influenciar i) o movimento dos indivíduos, ii) a distribuição de espécies, iii) os mecanismos que regulam a coexistência de populações, iv) a estrutura e a dinâmica de comunidades e v) os conflitos de conservação, não necessariamente nesta ordem. Tenho experiência em Ecologia Aplicada, Modelagem Ecológica e Biologia da Conservação. Desenvolvi projetos de pesquisa aplicada à conservação nos biomas Mata Atlântica, Cerrado e Floresta Amazônica. Trabalho com as linguagens R e BUGS e com outras ferramentas de análise de dados, especialmente as versões livres. A minha meta é integrar diferentes modelos para descrever o efeito de mudanças ambientais sobre o funcionamento de sistemas ecológicos. Colaboro com o Pronta pra ser Cientista, um projeto de extensão da FFCLRP/USP que incentiva meninas do Ensino Fundamental a se tornarem cientistas. Ofereço mentoria para estudantes por meio das RLadies Ribeirão Preto que faz parte das RLadies Global, uma organização sem fins lucrativos que tem a finalidade de promover o uso da linguagem R entre grupos subrepresentados. Para mais informações sobre as minhas habilidades em análise e visualização de dados, acesse o meu repositório no GitHub @fblpalmeira. Também pesquiso a presença da onça na música popular brasileira e sou produtora musical do Baile das onças, uma produção independente que compõe o acervo de programas radiofônicos da Rádio UFSCAR. Para mais informações, conheça o Baile das onças, um projeto de extensão contínuo. Antes de atuar pela analisaR, prestei serviços em análises de dados de (i) movimento animal no Projeto Monitoramento das onças-pardas e onças-pintadas e identificação das zonas críticas de refúgio e abrigo destas espécies, Programa Amigos da Onça (Instituto para a conservação dos carnívoros neotropicais - Pró-Carnívoros) e (ii) indicadores socioambientais de unidades de conservação do mosaico de áreas protegidas do Baixo Rio Negro (Instituto Socioambiental - ISA).
+Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de experiência em atividades de pesquisa, ensino e extensão. Estou interessada em compreender como as mudanças ambientais podem influenciar i) o movimento dos indivíduos, ii) a distribuição de espécies, iii) os mecanismos que regulam a coexistência de populações, iv) a estrutura e a dinâmica de comunidades e v) os conflitos de conservação, não necessariamente nesta ordem. Tenho experiência em Ecologia Aplicada, Modelagem Ecológica e Biologia da Conservação. Desenvolvi projetos de pesquisa aplicada à conservação nos biomas Mata Atlântica, Cerrado e Floresta Amazônica. Trabalho com as linguagens R e BUGS e com outras ferramentas de análise de dados, especialmente as versões livres. A minha meta é integrar diferentes modelos para descrever o efeito de mudanças ambientais sobre o funcionamento de sistemas ecológicos. Colaboro com o Pronta pra ser Cientista, um projeto de extensão da FFCLRP/USP que incentiva meninas do Ensino Fundamental a se tornarem cientistas. Ofereço mentoria para estudantes por meio das RLadies Ribeirão Preto que faz parte das RLadies Global, uma organização sem fins lucrativos que tem a finalidade de promover o uso da linguagem R entre grupos subrepresentados. Para mais informações sobre as minhas habilidades em análise e visualização de dados, acesse o meu repositório no GitHub @fblpalmeira. Também pesquiso a presença da onça na música popular brasileira e sou produtora musical do Baile das onças, uma produção independente que compõe o acervo de programas radiofônicos da Rádio UFSCAR. Para mais informações, conheça o Baile das onças, um projeto de extensão contínuo. Antes de atuar pela analisaR, prestei serviços em análises de dados de (i) movimento animal no Projeto Monitoramento das onças-pardas e onças-pintadas e identificação das zonas críticas de refúgio e abrigo destas espécies, Programa Amigos da Onça (Instituto para a conservação dos carnívoros neotropicais - Pró-Carnívoros) e (ii) indicadores socioambientais de unidades de conservação do mosaico de áreas protegidas do Baixo Rio Negro (Instituto Socioambiental - ISA).
 
 ## Serviços oferecidos
 
@@ -44,6 +44,8 @@ Confira também a [Oficina FIP DGM-CAR no âmbito do Programa de Investimento Fl
 
 Analisamos dados de movimento das onças-pintadas monitoradas com colares GPS no Projeto Corredor das Onças do [Instituto Onça-pintada (IOP)](https://jaguars.org/). 
 
+Palmeira, FBL and Jacomo, A and Trinca, CT and de Araujo, GR and Alves, GB and de Oliveira, G and Moreira, RA and Silveira, L, Jaguar Habitat Use and Behavior in Agricultural Land. Available at SSRN: https://ssrn.com/abstract=4841901 or http://dx.doi.org/10.2139/ssrn.4841901
+
 ## Mídias sociais
 
 [Twitter](https://twitter.com/analisaR_dados)
@@ -54,12 +56,12 @@ Analisamos dados de movimento das onças-pintadas monitoradas com colares GPS no
 
 ## Contato
 
-A analisaR é um empresa idealizada por [Francesca Palmeira](mailto:francesca@alumni.usp.br), uma mistura de bióloga de campo e de computador com mais de vinte anos de experiência em atividades de pesquisa, ensino e extensão.
-
-Website: [fblpalmeira.github.io](https://fblpalmeira.github.io) 
+Francesca Palmeira
 
 Email: [francesca@alumni.usp.br](mailto:francesca@alumni.usp.br)
 
+Website: [fblpalmeira.github.io](https://fblpalmeira.github.io) 
+
 ## Suporte
 
-A manutenção desta página também é feita por [Francesca Palmeira](mailto:francesca@alumni.usp.br).
+A manutenção desta página é feita por [Francesca Palmeira](mailto:francesca@alumni.usp.br).
