@@ -75,7 +75,7 @@ Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de e
   - [Avaliação dos programas de pós-graduação na Área da Biodiversidade](https://github.com/fblpalmeira/PPG_CAPES)
 
 - Análise de mídias sociais:
-  - [Contagem de palavras e emojis mais usados em um conta no Twitter](https://github.com/fblpalmeira/rtweet)
+  - [Contagem de palavras e emojis de uma conta no Twitter](https://github.com/fblpalmeira/rtweet)
 
 - Análise de sentimento
 
