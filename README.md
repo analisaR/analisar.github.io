@@ -89,12 +89,6 @@ Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de e
 
 - Para mais informações sobre as minhas habilidades em análise e visualização de dados, acesse o meu [repositório no GitHub](https://github.com/fblpalmeira)<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/logo_github.png" width="40" height="40"/>
 
-## Empresa com DNA USP
-
-<img src="analisaR_DNA_USP.png" align="right" width="150px"> 
-
-A analisaR é uma empresa que tem o [selo DNA USP](https://hubusp.inovacao.usp.br/empresas)! Prestamos serviços em análise e visualização de dados socioambientais e de biodiversidade garantindo a transparência e a reprodutibilidade dos resultados gerados. Ajudamos os nossos colaboradores na tomada de decisões de conservação baseada em evidências.
-
 ## Nossos clientes
 
 #### Grupo NSC (FIP Avaliação)
