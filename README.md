@@ -70,10 +70,10 @@ Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de e
 - Análise de dados na escala Likert:
   - [Índice Potencial de Conflito (PCI)](https://github.com/fblpalmeira/pcir)
 
-- Análise de dados de indicadores de projeto de monitoramento e avaliação ou de programas:
+- Análise de indicadores para projetos de monitoramento e avaliação ou para programas:
   - [Avaliação dos programas de pós-graduação em Ecologia](https://github.com/fblpalmeira/PPG_CAPES)
 
-- Análise de dados de mídias sociais:
+- Análise de mídias sociais:
   - [Contagem de palavras e emojis mais usados em um conta no Twitter](https://github.com/fblpalmeira/rtweet)
 
 - Análise de sentimento
