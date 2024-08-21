@@ -29,7 +29,7 @@ Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de e
 - Organização de datapaper:
   - [Neotropical Carnivores Datapaper](https://github.com/fblpalmeira/Neotropical_Carnivores)
 
-## Descrição de algumas análises, modelagens e visualizações
+## Exemplo de análises, modelagens e visualizações
 
 - Animação para visualizar a trajetória do movimento animal:
   - [Movimento de gatos domésticos](https://github.com/fblpalmeira/cats_uk)
