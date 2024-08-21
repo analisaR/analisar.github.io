@@ -125,7 +125,7 @@ Preprint: Palmeira FBL, Jacomo AT, Trinca CT, de Araujo GR, Alves GB, de Oliveir
 
 ## Contato
 
-<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/logo_email.png" width="40" height="40" /> [francesca@alumni.usp.br](mailto:francesca@alumni.usp.br)
+<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/data/logo_email.png" width="40" height="40" /> [francesca@alumni.usp.br](mailto:francesca@alumni.usp.br)
 
 ## Website pessoal
 
