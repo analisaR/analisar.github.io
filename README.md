@@ -78,7 +78,7 @@ Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de e
   - [Treemap](https://github.com/fblpalmeira/cranlogs_treemap)
   - [Boxplot](https://github.com/fblpalmeira/frogs_adehabitat)
   - [Séries temporais](https://github.com/fblpalmeira/desmatamento_amazonia)
-  - Grafícos de dispersão 2D e [3D](https://github.com/fblpalmeira/jaguar_distribution)
+  - Gráficos de dispersão 2D e [3D](https://github.com/fblpalmeira/jaguar_distribution)
   - [Dendograma](https://github.com/fblpalmeira/number_of_extinctions)
   - [Arte experimental no R](https://github.com/fblpalmeira/aRtsy)
 
