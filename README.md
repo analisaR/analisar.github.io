@@ -87,7 +87,7 @@ Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de e
   - [Dendograma](https://github.com/fblpalmeira/number_of_extinctions)
   - [Arte experimental no R](https://github.com/fblpalmeira/aRtsy)
 
-- Para mais informações sobre as minhas habilidades em análise e visualização de dados, acesse o meu [repositório no GitHub](https://github.com/fblpalmeira)
+- Para mais informações sobre as minhas habilidades em análise e visualização de dados, acesse o meu [repositório no GitHub](https://github.com/fblpalmeira)<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/logo_github.png" width="40" height="40"/>
 
 ## Empresa com DNA USP
 
