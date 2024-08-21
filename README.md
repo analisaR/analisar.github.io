@@ -4,7 +4,7 @@ A analisaR é uma empresa recém-criada por mim, Francesca Palmeira, para a pres
 
 ### DNA USP
 
-A analisaR é uma empresa que tem o [selo DNA USP](https://hubusp.inovacao.usp.br/empresas). A missão da empresa é auxiliar projetos ou programas de conservação na tomada de decisão baseada em evidência.
+A analisaR é uma empresa que tem o [selo DNA USP](https://hubusp.inovacao.usp.br/empresas). A missão da empresa é auxiliar ações, projetos ou programas de conservação na tomada de decisão baseada em evidência.
 
 ### Minibio de Francesca Palmeira
 
