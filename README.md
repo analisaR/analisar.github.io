@@ -22,7 +22,7 @@ Sou uma mistura de bióloga de campo e de computador. Estou interessada em compr
 
 ## Empresa com DNA USP
 
-<img src="analisaR_DNA_USP.png" align="right" width="100px"> 
+<img src="analisaR_DNA_USP.png" align="right" width="200px"> 
 
 A analisaR é uma [empresa com o DNA USP](https://hubusp.inovacao.usp.br/empresas)! Prestamos serviços em análise e visualização de dados socioambientais e de biodiversidade garantindo a transparência e a reprodutibilidade dos resultados gerados.
 
