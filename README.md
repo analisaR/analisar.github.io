@@ -2,7 +2,7 @@
 
 A analisaR é uma empresa recém-criada por mim, Francesca Palmeira, para a prestação de serviços em análise e visualização de dados socioambientais e de biodiversidade. Trabalho principalmente com o R, uma linguagem de código aberto que garante a transparência e a reprodutibilidade nos resultados gerados. A tipografia da logo da analisaR mistura caracteres que simbolizam o ambiente de trabalho dentro do R. As cores cinza e azul também são as mesmas encontradas na paleta de cores do R. A engrenagem significa "análises rodando", uma gíria utilizada na modelagem estatística. 
 
-#### Francesca Palmeira: minibio
+### Francesca Palmeira: minibio
 
 Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de experiência em atividades de pesquisa, ensino e extensão. Estou interessada em compreender como as mudanças ambientais podem influenciar i) o movimento dos indivíduos, ii) a distribuição de espécies, iii) os mecanismos que regulam a coexistência de populações, iv) a estrutura e a dinâmica de comunidades e v) os conflitos de conservação, não necessariamente nesta ordem. Tenho experiência em Ecologia Aplicada, Modelagem Ecológica e Biologia da Conservação. Desenvolvi projetos de pesquisa aplicada à conservação nos biomas Mata Atlântica, Cerrado e Floresta Amazônica. Trabalho com as linguagens R e BUGS e com outras ferramentas de análise de dados, especialmente as versões livres. Ofereço treinamento e mentoria para estudantes por meio das [RLadies Ribeirão Preto](https://www.meetup.com/rladies-ribeirao-preto) que faz parte das [RLadies Global](https://rladies.org), uma organização sem fins lucrativos que tem a finalidade de promover o uso da linguagem R entre grupos subrepresentados. Também participo do programa [rOpenSci Champions 2023-2024](https://ropensci.org/blog/2024/02/15/champions-program-champions-2024/), apoiado pela iniciativa Chan Zuckerberg, e como parte desse treinamento estou desenvolvendo um pacote no R para medir o potencial de conflito utilizando dados de entrevistas. O pacote equipará os usuários com as ferramentas necessárias para calcular, comparar e representar graficamente o potencial de conflito entre grupos de interesse e tem aplicação em vários campos, incluindo economia, ciência política, psicologia, sociologia e recursos naturais. Antes de atuar pela analisaR, prestei serviços em (i) análise de dados de indicadores socioambientais de unidades de conservação do mosaico de áreas protegidas do Baixo Rio Negro para o Instituto Socioambiental (ISA) e (ii) análise de dados de movimento animal no Projeto Monitoramento das onças-pardas e onças-pintadas na Caatinga para o Programa Amigos da Onça do Instituto para a conservação dos carnívoros neotropicais (Pró-Carnívoros).
 
@@ -20,7 +20,7 @@ Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de e
   
 - Assessoria em análise de dados
 
-#### Descrição de algumas análises, modelagens e visualizações
+### Descrição de algumas análises, modelagens e visualizações
 
 - Animação para visualizar a trajetória do movimento animal:
   - [Movimento de gatos domésticos](https://github.com/fblpalmeira/cats_uk)
