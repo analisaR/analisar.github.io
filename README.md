@@ -127,6 +127,6 @@ Antes de atuar pela analisaR, também prestei serviços em (i) análise de dados
 
 ## Contato e suporte
 
-<img src="logo_email.png" width="40" height="40" /> [francesca@alumni.usp.br](mailto:francesca@alumni.usp.br)
-
 A manutenção desta página é feita por Francesca Palmeira. A última atualização foi feita em 21/08/2024.
+
+<img src="logo_email.png" width="40" height="40" /> [francesca@alumni.usp.br](mailto:francesca@alumni.usp.br)
