@@ -24,12 +24,12 @@ Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de e
   
 - Modelagem ecológica
 
-### Exemplo de estruturação de banco de dados
+## Exemplo de estruturação de banco de dados
 
 - Organização de datapaper:
   - [Neotropical Carnivores Datapaper](https://github.com/fblpalmeira/Neotropical_Carnivores)
 
-### Descrição de algumas análises, modelagens e visualizações
+## Descrição de algumas análises, modelagens e visualizações
 
 - Animação para visualizar a trajetória do movimento animal:
   - [Movimento de gatos domésticos](https://github.com/fblpalmeira/cats_uk)
@@ -107,13 +107,13 @@ Confira a [Oficina Intersetorial Reflexões sobre o Avanço dos Projetos - FIP M
 
 Confira também a [Oficina FIP DGM-CAR no âmbito do Programa de Investimento Florestal do Brasil PIB/FIP](https://www.youtube.com/watch?v=LLSkK0nQH0Q).
 
-#### Instituto Onça-pintada 
+- #### Instituto Onça-pintada 
 
 Analisei od dados de movimento das onças-pintadas monitoradas com colares GPS no Projeto Corredor das Onças do Instituto Onça-pintada (IOP).
 
 Preprint: Palmeira FBL, Jacomo AT, Trinca CT, de Araujo GR, Alves GB, de Oliveira G, Moreira RA and Silveira L. Jaguar Habitat Use and Behavior in Agricultural Land. [Available at SSRN](https://ssrn.com/abstract=4841901).
 
-#### Informações adicionais
+- #### Informações adicionais
 
 Antes de atuar pela analisaR, também prestei serviços em (i) análise de dados de indicadores socioambientais de seis unidades de conservação do mosaico de áreas protegidas do Baixo Rio Negro para o Instituto Socioambiental (ISA) e (ii) análise de dados de movimento animal das onças-pardas e onças-pintadas da Caatinga para o Programa Amigos da Onça (Instituto Pró-Carnívoros).
 
