@@ -1,6 +1,6 @@
 ## Sobre a empresa
 
-A analisaR (CNPJ 42.948.481.0001/01) é uma empresa recém-criada por mim, Francesca Palmeira, para a prestação de serviços em análise e visualização de dados socioambientais e de biodiversidade. Trabalho principalmente com o R, uma linguagem de código aberto que garante a transparência e a reprodutibilidade nos resultados gerados. A tipografia da logo da empresa mistura caracteres que simbolizam o ambiente de trabalho dentro do R. As cores cinza e azul também são as mesmas encontradas na paleta de cores do R. A engrenagem significa "análises rodando", uma gíria utilizada na modelagem estatística. 
+A analisaR é uma empresa recém-criada por mim, Francesca Palmeira, para a prestação de serviços em análise e visualização de dados socioambientais e de biodiversidade. Trabalho principalmente com o R, uma linguagem de código aberto que garante a transparência e a reprodutibilidade nos resultados gerados. A tipografia da logo da empresa mistura caracteres que simbolizam o ambiente de trabalho dentro do R. As cores cinza e azul também são as mesmas encontradas na paleta de cores do R. A engrenagem significa "análises rodando", uma gíria utilizada na modelagem estatística. 
 
 #### Francesca Palmeira: minibio
 
@@ -88,7 +88,7 @@ Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de e
 
 <img src="analisaR_DNA_USP.png" align="right" width="150px"> 
 
-A analisaR é uma [empresa que tem o selo DNA USP](https://hubusp.inovacao.usp.br/empresas)! Prestamos serviços em análise e visualização de dados socioambientais e de biodiversidade garantindo a transparência e a reprodutibilidade dos resultados gerados. Ajudamos os nossos colaboradores na tomada de decisões de conservação baseada em evidências.
+A analisaR (CNPJ 42.948.481.0001/01) é uma empresa que tem o [selo DNA USP](https://hubusp.inovacao.usp.br/empresas)! Prestamos serviços em análise e visualização de dados socioambientais e de biodiversidade garantindo a transparência e a reprodutibilidade dos resultados gerados. Ajudamos os nossos colaboradores na tomada de decisões de conservação baseada em evidências.
 
 ## Nossos clientes
 
