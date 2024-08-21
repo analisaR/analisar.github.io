@@ -91,13 +91,13 @@ Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de e
   - [Dendograma](https://github.com/fblpalmeira/number_of_extinctions)
   - [Arte experimental no R](https://github.com/fblpalmeira/aRtsy)
 
-- Para mais informações sobre as minhas habilidades em análise e visualização de dados, acesse o meu [repositório no GitHub](https://github.com/fblpalmeira)
+Para mais informações sobre as minhas habilidades em análise e visualização de dados, acesse o meu [repositório no GitHub](https://github.com/fblpalmeira).
 
 ## Nossos clientes
 
 ### Grupo NSC (FIP Avaliação)
 
-Por meio do Grupo Natureza, Conservação e Sociedade (Grupo NSC), analisei os indicadores de desempenho de oito mega projetos no Cerrado que fazem parte do [PIB/FIP (Plano de Investimentos do Brasil para o Fundo de Investimento Florestal)](http://fip.mma.gov.br). Uma grande oportunidade para avaliar o sucesso das ações de conservação promovidas por essa iniciativa do governo federal e que faz parte de um programa internacional de longo prazo. 
+Por meio do Grupo Natureza, Conservação e Sociedade (Grupo NSC), analisei os indicadores de desempenho de oito mega projetos no Cerrado que fazem parte do [PIB/FIP (Plano de Investimentos do Brasil para o Fundo de Investimento Florestal)](http://fip.mma.gov.br). Foi uma grande oportunidade poder avaliar o sucesso das ações de conservação promovidas por uma iniciativa que faz parte de um programa internacional de longo prazo. 
 
 Confira a primeira [reunião online](http://fip.funatura.org.br/projetos-do-fundo-de-investimento-florestal-passam-por-avaliacao-de-impactos/#more-2956) entre (i) o FIP Avaliação, (ii) o FIP Coordenação representado pela [Funatura](https://www.funatura.org.br) e (iii) os gestores dos oito projetos do programa. Trabalhamos com nove camadas de análise e mais de dez interações entre modalidades e componentes de avaliação. 
 
