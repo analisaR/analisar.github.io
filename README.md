@@ -1,6 +1,6 @@
 ## Sobre a empresa
 
-A analisaR é uma empresa criada em agosto de 2020 por Francesca Palmeira para a prestação de serviços em análise e visualização de dados socioambientais e de biodiversidade. Trabalhamos principalmente com o R, uma linguagem de código aberto que garante a transparência e a reprodutibilidade nos resultados gerados. A tipografia da nossa logo mistura caracteres que simbolizam o ambiente de trabalho dentro do R. As cores cinza e azul também são as mesmas encontradas na paleta de cores da logomarca do R. A engrenagem significa "análises rodando", uma gíria utilizada na modelagem estatística. 
+A analisaR (CNPJ 42.948.481.0001/01) é uma empresa recém-criada por mim, Francesca Palmeira, para a prestação de serviços em análise e visualização de dados socioambientais e de biodiversidade. Trabalho principalmente com o R, uma linguagem de código aberto que garante a transparência e a reprodutibilidade nos resultados gerados. A tipografia da logo da empresa mistura caracteres que simbolizam o ambiente de trabalho dentro do R. As cores cinza e azul também são as mesmas encontradas na paleta de cores do R. A engrenagem significa "análises rodando", uma gíria utilizada na modelagem estatística. 
 
 #### Francesca Palmeira: minibio
 
