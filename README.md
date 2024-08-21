@@ -95,7 +95,7 @@ Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de e
 
 ## Nossos clientes
 
-- #### Grupo NSC (FIP Avaliação)
+- ### Grupo NSC (FIP Avaliação)
 
 Por meio do Grupo Natureza, Conservação e Sociedade (Grupo NSC), analisei os indicadores de desempenho de oito mega projetos no Cerrado que fazem parte do [PIB/FIP (Plano de Investimentos do Brasil para o Fundo de Investimento Florestal)](http://fip.mma.gov.br). Uma grande oportunidade para avaliar o sucesso das ações de conservação promovidas por essa iniciativa do governo federal e que faz parte de um programa internacional de longo prazo. 
 
@@ -107,13 +107,13 @@ Confira a [Oficina Intersetorial Reflexões sobre o Avanço dos Projetos - FIP M
 
 Confira também a [Oficina FIP DGM-CAR no âmbito do Programa de Investimento Florestal do Brasil PIB/FIP](https://www.youtube.com/watch?v=LLSkK0nQH0Q).
 
-- #### Instituto Onça-pintada 
+- ### Instituto Onça-pintada 
 
 Analisei od dados de movimento das onças-pintadas monitoradas com colares GPS no Projeto Corredor das Onças do Instituto Onça-pintada (IOP).
 
 Preprint: Palmeira FBL, Jacomo AT, Trinca CT, de Araujo GR, Alves GB, de Oliveira G, Moreira RA and Silveira L. Jaguar Habitat Use and Behavior in Agricultural Land. [Available at SSRN](https://ssrn.com/abstract=4841901).
 
-- #### Informações adicionais
+- ### Informações adicionais
 
 Antes de atuar pela analisaR, também prestei serviços em (i) análise de dados de indicadores socioambientais de seis unidades de conservação do mosaico de áreas protegidas do Baixo Rio Negro para o Instituto Socioambiental (ISA) e (ii) análise de dados de movimento animal das onças-pardas e onças-pintadas da Caatinga para o Programa Amigos da Onça (Instituto Pró-Carnívoros).
 
