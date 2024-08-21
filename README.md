@@ -26,7 +26,7 @@ Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de e
 
 ### Exemplo de estruturação de banco de dados
 
-- Organização de datapaper:
+- Organização de datapapers:
   - [Neotropical Carnivores Datapaper](https://github.com/fblpalmeira/Neotropical_Carnivores)
 
 ### Exemplo de análises, modelagens e visualizações
