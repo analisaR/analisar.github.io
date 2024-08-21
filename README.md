@@ -22,33 +22,50 @@ Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de e
 
 ## Descrição detalhada de algumas análises, modelagens e visualizações
 
-- Animação para visualizar o movimento animal: [movimento de gatos domésticos](https://github.com/fblpalmeira/cats_uk), [movimento de onças no Pantanal](https://github.com/fblpalmeira/movevis)
+- Animação para visualizar o movimento animal:
+  [Movimento de gatos domésticos](https://github.com/fblpalmeira/cats_uk)
+  [Movimento de onças no Pantanal](https://github.com/fblpalmeira/movevis)
 
-- Mapa interativo: [área de vida de gatos domésticos](https://rpubs.com/fblpalmeira/cats_uk), [localização de onças](https://github.com/fblpalmeira/jaguar_interactivemap), [área de vida de onças](https://rpubs.com/fblpalmeira/jaguar_MCP95), [assassinatos causados por conflitos no campo](https://github.com/fblpalmeira/murders_interactivemap).
+- Mapa interativo:
+  [Área de vida de gatos domésticos](https://rpubs.com/fblpalmeira/cats_uk)
+  [Localização de onças](https://github.com/fblpalmeira/jaguar_interactivemap)
+  [Área de vida de onças](https://rpubs.com/fblpalmeira/jaguar_MCP95)
+  [Assassinatos causados por conflitos no campo](https://github.com/fblpalmeira/murders_interactivemap)
 
 - Modelo de distribuição de espécies (Maxent)
   
-- Modelo de ocupação state e dinâmico: [Abundância de pecaris](https://github.com/fblpalmeira/peccary_abundance)
+- Modelo de ocupação state e dinâmico:
+  [Abundância de queixadase catetos](https://github.com/fblpalmeira/peccary_abundance)
 
 - Modelo de captura e recaptura espacialmente explícito (SECR)
 
-- Modelagem de área de vida (AKDE): [estimativa da área de vida de uma onça](https://github.com/fblpalmeira/AKDE)
+- Modelagem de área de vida (AKDE):
+  [Estimativa da área de vida de uma onça](https://github.com/fblpalmeira/AKDE)
 
 - Clusterização e segmentação de estados comportamentais (ex.: animal em trânsito, em busca ativa ou imóvel) 
 
-- Análise de regressão linear (LM), Modelo linear generalizado (GLM) e modelo aditivo (GAM): [Probabilidade de predação de bovinos por onças](https://github.com/fblpalmeira/cattle_predation), [Probabilidade de predação de animais domésticos por onças-pardas](https://github.com/fblpalmeira/puma_predation)
+- Análise de regressão linear (LM), Modelo linear generalizado (GLM) e modelo aditivo (GAM):
+  [Probabilidade de predação de bovinos por onças](https://github.com/fblpalmeira/cattle_predation)
+  [Probabilidade de predação de animais domésticos por onças-pardas](https://github.com/fblpalmeira/puma_predation)
 
-- Redes ecológicas: [rede trófica bipartida](https://github.com/fblpalmeira/jaguar_bipartite) e [rede trófica multipartida](https://github.com/fblpalmeira/foodweb)
+- Redes ecológicas:
+  [Rede trófica bipartida](https://github.com/fblpalmeira/jaguar_bipartite) 
+  [Rede trófica multipartida](https://github.com/fblpalmeira/foodweb)
 
-- Diagrama de Sankey: [assassinatos causados por conflitos no campo](https://github.com/fblpalmeira/assassinatos_CPT)
+- Diagrama de Sankey:
+  [Assassinatos causados por conflitos no campo](https://github.com/fblpalmeira/assassinatos_CPT)
 
-- Análise de dados circulares: [sobreposição temporal de espécies](https://github.com/fblpalmeira/jaguar_preys_traptimes)
+- Análise de dados circulares:
+  [Sobreposição temporal de espécies](https://github.com/fblpalmeira/jaguar_preys_traptimes)
    
-- Análise de dados na escala Likert: [Índice Potencial de Conflito (PCI)](https://github.com/fblpalmeira/pcir)
+- Análise de dados na escala Likert:
+  [Índice Potencial de Conflito (PCI)](https://github.com/fblpalmeira/pcir)
 
-- Análise de dados de indicadores de projeto de monitoramento e avaliação ou de programas: [avaliação dos programas de pós-graduação em Ecologia](https://github.com/fblpalmeira/PPG_CAPES)
+- Análise de dados de indicadores de projeto de monitoramento e avaliação ou de programas:
+  [Avaliação dos programas de pós-graduação em Ecologia](https://github.com/fblpalmeira/PPG_CAPES)
 
-- Análise de dados de mídias sociais: [análise de dados do twitter](https://github.com/fblpalmeira/rtweet)
+- Análise de dados de mídias sociais:
+  [Contagem das palavras e dos emojis mais usados por uma determinada conta no Twitter](https://github.com/fblpalmeira/rtweet)
 
 - Visualizações gráficas em geral: [pictogramas](https://github.com/fblpalmeira/pictograma_arvores), [fluxogramas](https://github.com/fblpalmeira/DiagrammeR), [waffle comum](https://github.com/fblpalmeira/reptiles_database), [waffle personalizado](https://github.com/fblpalmeira/waffle), [slope](https://github.com/fblpalmeira/highest-dwelling-mammal), [treemap](https://github.com/fblpalmeira/cranlogs_treemap), [boxplot](https://github.com/fblpalmeira/frogs_adehabitat), intervalos de confiança, [séries temporais](https://github.com/fblpalmeira/desmatamento_amazonia), dispersão 2D e [3D](https://github.com/fblpalmeira/jaguar_distribution), [dendogramas](https://github.com/fblpalmeira/number_of_extinctions), [arte experimental no R](https://github.com/fblpalmeira/aRtsy), entre outras visualizações.
    
