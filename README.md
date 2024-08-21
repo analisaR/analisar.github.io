@@ -43,7 +43,7 @@ Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de e
 
 - Modelo de distribuição de espécies (Maxent)
   
-- Modelo de ocupação state e dinâmico:
+- Modelo de ocupação *state* e dinâmico:
   - [Abundância de queixadas e catetos](https://github.com/fblpalmeira/peccary_abundance)
 
 - Modelo de captura e recaptura espacialmente explícito (SECR)
