@@ -8,7 +8,7 @@ A analisaR é uma empresa que tem o [selo DNA USP](https://hubusp.inovacao.usp.b
 
 ### Francesca Palmeira: minibio
 
-Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de experiência em atividades de pesquisa, ensino e extensão. Estou interessada em compreender como as mudanças ambientais podem influenciar i) o movimento dos indivíduos, ii) a distribuição de espécies, iii) os mecanismos que regulam a coexistência de populações, iv) a estrutura e a dinâmica de comunidades e v) os conflitos de conservação, não necessariamente nesta ordem. Tenho experiência em Ecologia Aplicada, Modelagem Ecológica e Biologia da Conservação. Desenvolvi projetos de pesquisa aplicada à conservação nos biomas Mata Atlântica, Cerrado e Floresta Amazônica. Trabalho com as linguagens R e BUGS e com outras ferramentas de análise de dados, especialmente as versões livres. Ofereço treinamento e mentoria para estudantes por meio das [RLadies Ribeirão Preto](https://www.meetup.com/rladies-ribeirao-preto) que faz parte das [RLadies Global](https://rladies.org), uma organização sem fins lucrativos que tem a finalidade de promover o uso da linguagem R entre grupos subrepresentados. Também participo do programa [rOpenSci Champions 2023-2024](https://ropensci.org/blog/2024/02/15/champions-program-champions-2024/), apoiado pela iniciativa Chan Zuckerberg, e como parte desse treinamento estou desenvolvendo um pacote no R para medir o potencial de conflito utilizando dados de entrevistas. O pacote equipará os usuários com as ferramentas necessárias para calcular, comparar e representar graficamente o potencial de conflito entre grupos de interesse e tem aplicação em vários campos, incluindo economia, ciência política, psicologia, sociologia e recursos naturais. Antes de atuar pela analisaR, prestei serviços em (i) análise de dados de indicadores socioambientais de unidades de conservação do mosaico de áreas protegidas do Baixo Rio Negro para o Instituto Socioambiental (ISA) e (ii) análise de dados de movimento animal no Projeto Monitoramento das onças-pardas e onças-pintadas na Caatinga para o Programa Amigos da Onça do Instituto para a conservação dos carnívoros neotropicais (Pró-Carnívoros).
+Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de experiência em atividades de pesquisa, ensino e extensão em Ecologia Aplicada e Biologia da Conservação. Trabalho com as linguagens R e BUGS e com outras ferramentas de análise de dados, especialmente as versões livres. Ofereço treinamento e mentoria para estudantes por meio das [RLadies Ribeirão Preto](https://www.meetup.com/rladies-ribeirao-preto) que faz parte das [RLadies Global](https://rladies.org), uma organização sem fins lucrativos que tem a finalidade de promover o uso da linguagem R entre grupos subrepresentados. Também faço parte do programa [rOpenSci Champions 2023-2024](https://ropensci.org/blog/2024/02/15/champions-program-champions-2024/), apoiado pela iniciativa Chan Zuckerberg, e como parte desse treinamento estou desenvolvendo um pacote no R para medir o potencial de conflito entre grupos de interesse. 
 
 ## Serviços oferecidos
 
@@ -109,9 +109,13 @@ Confira também a [Oficina FIP DGM-CAR no âmbito do Programa de Investimento Fl
 
 #### Instituto Onça-pintada 
 
-Analisamos dados de movimento das onças-pintadas monitoradas com colares GPS no Projeto Corredor das Onças do Instituto Onça-pintada (IOP).
+Analisei od dados de movimento das onças-pintadas monitoradas com colares GPS no Projeto Corredor das Onças do Instituto Onça-pintada (IOP).
 
 Preprint: Palmeira FBL, Jacomo AT, Trinca CT, de Araujo GR, Alves GB, de Oliveira G, Moreira RA and Silveira L. Jaguar Habitat Use and Behavior in Agricultural Land. [Available at SSRN] (https://ssrn.com/abstract=4841901).
+
+#### Informações adicionais
+
+Antes de atuar pela analisaR, também prestei serviços em (i) análise de dados de indicadores socioambientais de seis unidades de conservação do mosaico de áreas protegidas do Baixo Rio Negro para o Instituto Socioambiental (ISA) e (ii) análise de dados de movimento animal das onças-pardas e onças-pintadas da Caatinga para o Programa Amigos da Onça (Instituto Pró-Carnívoros).
 
 ## Mídias sociais
 
