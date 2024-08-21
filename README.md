@@ -23,64 +23,64 @@ Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de e
 #### Descrição de algumas análises, modelagens e visualizações
 
 - Animação para visualizar a trajetória do movimento animal:
-  [Movimento de gatos domésticos](https://github.com/fblpalmeira/cats_uk)
-  [Movimento de onças no Pantanal](https://github.com/fblpalmeira/movevis)
+  - [Movimento de gatos domésticos](https://github.com/fblpalmeira/cats_uk)
+  - [Movimento de onças no Pantanal](https://github.com/fblpalmeira/movevis)
 
 - Mapa interativo:
-  [Localização de onças](https://github.com/fblpalmeira/jaguar_interactivemap)
-  [Área de vida de onças](https://rpubs.com/fblpalmeira/jaguar_MCP95)
-  [Área de vida de gatos domésticos](https://rpubs.com/fblpalmeira/cats_uk)
-  [Assassinatos causados por conflitos no campo](https://github.com/fblpalmeira/murders_interactivemap)
+  - [Localização de onças](https://github.com/fblpalmeira/jaguar_interactivemap)
+  - [Área de vida de onças](https://rpubs.com/fblpalmeira/jaguar_MCP95)
+  - [Área de vida de gatos domésticos](https://rpubs.com/fblpalmeira/cats_uk)
+  - [Assassinatos causados por conflitos no campo](https://github.com/fblpalmeira/murders_interactivemap)
 
 - Modelo de distribuição de espécies (Maxent)
   
 - Modelo de ocupação state e dinâmico:
-  [Abundância de queixadas e catetos](https://github.com/fblpalmeira/peccary_abundance)
+  - [Abundância de queixadas e catetos](https://github.com/fblpalmeira/peccary_abundance)
 
 - Modelo de captura e recaptura espacialmente explícito (SECR)
 
 - Modelagem de área de vida (AKDE):
-  [Estimativa da área de vida de uma onça](https://github.com/fblpalmeira/AKDE)
+  - [Estimativa da área de vida de uma onça](https://github.com/fblpalmeira/AKDE)
 
 - Clusterização de estados comportamentais (ex.: animal em trânsito, em busca ativa ou imóvel) 
 
 - Análise de regressão linear (LM), modelos generalizados (GLM ou GAM):
-  [Probabilidade de predação de bovinos por onças](https://github.com/fblpalmeira/cattle_predation)
-  [Probabilidade de predação de animais domésticos por onças-pardas](https://github.com/fblpalmeira/puma_predation)
+  - [Probabilidade de predação de bovinos por onças](https://github.com/fblpalmeira/cattle_predation)
+  - [Probabilidade de predação de animais domésticos por onças-pardas](https://github.com/fblpalmeira/puma_predation)
 
 - Redes ecológicas:
-  [Rede trófica bipartida](https://github.com/fblpalmeira/jaguar_bipartite) 
-  [Rede trófica multipartida](https://github.com/fblpalmeira/foodweb)
+  - [Rede trófica bipartida](https://github.com/fblpalmeira/jaguar_bipartite) 
+  - [Rede trófica multipartida](https://github.com/fblpalmeira/foodweb)
 
 - Diagrama de Sankey:
-  [Assassinatos causados por conflitos no campo](https://github.com/fblpalmeira/assassinatos_CPT)
+  - [Assassinatos causados por conflitos no campo](https://github.com/fblpalmeira/assassinatos_CPT)
 
 - Análise de dados circulares:
-  [Sobreposição temporal de espécies](https://github.com/fblpalmeira/jaguar_preys_traptimes)
+  - [Sobreposição temporal de espécies](https://github.com/fblpalmeira/jaguar_preys_traptimes)
    
 - Análise de dados na escala Likert:
-  [Índice Potencial de Conflito (PCI)](https://github.com/fblpalmeira/pcir)
+  - [Índice Potencial de Conflito (PCI)](https://github.com/fblpalmeira/pcir)
 
 - Análise de dados de indicadores de projeto de monitoramento e avaliação ou de programas:
-  [Avaliação dos programas de pós-graduação em Ecologia](https://github.com/fblpalmeira/PPG_CAPES)
+  - [Avaliação dos programas de pós-graduação em Ecologia](https://github.com/fblpalmeira/PPG_CAPES)
 
 - Análise de dados de mídias sociais:
-  [Contagem de palavras e emojis mais usados em um conta no Twitter](https://github.com/fblpalmeira/rtweet)
+  - [Contagem de palavras e emojis mais usados em um conta no Twitter](https://github.com/fblpalmeira/rtweet)
 
 - Análise de sentimento
 
 - Visualizações gráficas variadas:
-  [Pictograma](https://github.com/fblpalmeira/pictograma_arvores)
-  [Fluxograma](https://github.com/fblpalmeira/DiagrammeR)
-  [Waffle comum](https://github.com/fblpalmeira/reptiles_database)
-  [Waffle personalizado](https://github.com/fblpalmeira/waffle)
-  [Slope](https://github.com/fblpalmeira/highest-dwelling-mammal)
-  [Treemap](https://github.com/fblpalmeira/cranlogs_treemap)
-  [Boxplot](https://github.com/fblpalmeira/frogs_adehabitat)
-  [Séries temporais](https://github.com/fblpalmeira/desmatamento_amazonia)
-  Grafícos de dispersão 2D e [3D](https://github.com/fblpalmeira/jaguar_distribution)
-  [Dendograma](https://github.com/fblpalmeira/number_of_extinctions)
-  [Arte experimental no R](https://github.com/fblpalmeira/aRtsy)
+  - [Pictograma](https://github.com/fblpalmeira/pictograma_arvores)
+  - [Fluxograma](https://github.com/fblpalmeira/DiagrammeR)
+  - [Waffle comum](https://github.com/fblpalmeira/reptiles_database)
+  - [Waffle personalizado](https://github.com/fblpalmeira/waffle)
+  - [Slope](https://github.com/fblpalmeira/highest-dwelling-mammal)
+  - [Treemap](https://github.com/fblpalmeira/cranlogs_treemap)
+  - [Boxplot](https://github.com/fblpalmeira/frogs_adehabitat)
+  - [Séries temporais](https://github.com/fblpalmeira/desmatamento_amazonia)
+  - Grafícos de dispersão 2D e [3D](https://github.com/fblpalmeira/jaguar_distribution)
+  - [Dendograma](https://github.com/fblpalmeira/number_of_extinctions)
+  - [Arte experimental no R](https://github.com/fblpalmeira/aRtsy)
 
 - Para mais informações sobre as minhas habilidades em análise e visualização de dados, acesse o meu [repositório no GitHub](https://github.com/fblpalmeira)
 
