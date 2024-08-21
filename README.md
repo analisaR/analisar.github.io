@@ -2,7 +2,7 @@
 
 A analisaR é uma empresa criada em agosto de 2020 por Francesca Palmeira para a prestação de serviços em análise e visualização de dados socioambientais e de biodiversidade. Trabalhamos principalmente com o R, uma linguagem de código aberto que garante a transparência e a reprodutibilidade nos resultados gerados. A tipografia da nossa logo mistura caracteres que simbolizam o ambiente de trabalho dentro do R. As cores cinza e azul também são as mesmas encontradas na paleta de cores da logomarca do R. A engrenagem significa "análises rodando", uma gíria utilizada na modelagem estatística. 
 
-### Francesca Palmeira: minibio
+#### Francesca Palmeira: minibio
 
 Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de experiência em atividades de pesquisa, ensino e extensão. Estou interessada em compreender como as mudanças ambientais podem influenciar i) o movimento dos indivíduos, ii) a distribuição de espécies, iii) os mecanismos que regulam a coexistência de populações, iv) a estrutura e a dinâmica de comunidades e v) os conflitos de conservação, não necessariamente nesta ordem. Tenho experiência em Ecologia Aplicada, Modelagem Ecológica e Biologia da Conservação. Desenvolvi projetos de pesquisa aplicada à conservação nos biomas Mata Atlântica, Cerrado e Floresta Amazônica. Trabalho com as linguagens R e BUGS e com outras ferramentas de análise de dados, especialmente as versões livres. Ofereço treinamento e mentoria para estudantes por meio das RLadies Ribeirão Preto que faz parte das RLadies Global, uma organização sem fins lucrativos que tem a finalidade de promover o uso da linguagem R entre grupos subrepresentados. Para mais informações sobre as minhas habilidades em análise e visualização de dados, acesse o meu repositório no GitHub @fblpalmeira. Antes de atuar pela analisaR, prestei serviços em (i) análise de dados de indicadores socioambientais de unidades de conservação do mosaico de áreas protegidas do Baixo Rio Negro  para o Instituto Socioambiental (ISA) e (ii) análise de dados de movimento animal no Projeto Monitoramento das onças-pardas e onças-pintadas na Caatinga para o Programa Amigos da Onça  do Instituto para a conservação dos carnívoros neotropicais (Pró-Carnívoros).
 
@@ -20,7 +20,7 @@ Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de e
   
 - Assessoria em análise de dados
 
-## Descrição detalhada de algumas análises, modelagens e visualizações
+#### Descrição de algumas análises, modelagens e visualizações
 
 - Animação para visualizar o movimento animal:
   [Movimento de gatos domésticos](https://github.com/fblpalmeira/cats_uk)
@@ -67,13 +67,26 @@ Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de e
 - Análise de dados de mídias sociais:
   [Contagem das palavras e dos emojis mais usados por uma determinada conta no Twitter](https://github.com/fblpalmeira/rtweet)
 
-- Visualizações gráficas em geral: [pictogramas](https://github.com/fblpalmeira/pictograma_arvores), [fluxogramas](https://github.com/fblpalmeira/DiagrammeR), [waffle comum](https://github.com/fblpalmeira/reptiles_database), [waffle personalizado](https://github.com/fblpalmeira/waffle), [slope](https://github.com/fblpalmeira/highest-dwelling-mammal), [treemap](https://github.com/fblpalmeira/cranlogs_treemap), [boxplot](https://github.com/fblpalmeira/frogs_adehabitat), intervalos de confiança, [séries temporais](https://github.com/fblpalmeira/desmatamento_amazonia), dispersão 2D e [3D](https://github.com/fblpalmeira/jaguar_distribution), [dendogramas](https://github.com/fblpalmeira/number_of_extinctions), [arte experimental no R](https://github.com/fblpalmeira/aRtsy), entre outras visualizações.
-   
+- Análise de sentimento
+
+- Visualizações gráficas variadas:
+  [Pictograma](https://github.com/fblpalmeira/pictograma_arvores)
+  [Fluxograma](https://github.com/fblpalmeira/DiagrammeR)
+  [Waffle comum](https://github.com/fblpalmeira/reptiles_database)
+  [Waffle personalizado](https://github.com/fblpalmeira/waffle)
+  [Slope](https://github.com/fblpalmeira/highest-dwelling-mammal)
+  [Treemap](https://github.com/fblpalmeira/cranlogs_treemap)
+  [Boxplot](https://github.com/fblpalmeira/frogs_adehabitat)
+  [Séries temporais](https://github.com/fblpalmeira/desmatamento_amazonia)
+  Grafícos de dispersão 2D e [3D](https://github.com/fblpalmeira/jaguar_distribution)
+  [Dendograma](https://github.com/fblpalmeira/number_of_extinctions)
+  [Arte experimental no R](https://github.com/fblpalmeira/aRtsy)
+
 ## Empresa com DNA USP
 
 <img src="analisaR_DNA_USP.png" align="right" width="200px"> 
 
-A analisaR é uma [empresa com o DNA USP](https://hubusp.inovacao.usp.br/empresas)! Prestamos serviços em análise e visualização de dados socioambientais e de biodiversidade garantindo a transparência e a reprodutibilidade dos resultados gerados. Acreditamos na tomada de decisões baseada em evidências.
+A analisaR é uma [empresa com o DNA USP](https://hubusp.inovacao.usp.br/empresas)! Prestamos serviços em análise e visualização de dados socioambientais e de biodiversidade garantindo a transparência e a reprodutibilidade dos resultados gerados. Ajudamos os nossos colaboradores na tomada de decisões de conservação baseada em evidências.
 
 ## Nossos clientes
 
@@ -93,7 +106,7 @@ Confira também a [Oficina FIP DGM-CAR no âmbito do Programa de Investimento Fl
 
 Analisamos dados de movimento das onças-pintadas monitoradas com colares GPS no Projeto Corredor das Onças do [Instituto Onça-pintada (IOP)](https://jaguars.org/). 
 
-Palmeira FBL, Jacomo A, Trinca CT, de Araujo GR, Alves GB, de Oliveira G, Moreira RA and Silveira L. Jaguar Habitat Use and Behavior in Agricultural Land. Available at SSRN: https://ssrn.com/abstract=4841901 or http://dx.doi.org/10.2139/ssrn.4841901
+Preprint: Palmeira FBL, Jacomo A, Trinca CT, de Araujo GR, Alves GB, de Oliveira G, Moreira RA and Silveira L. Jaguar Habitat Use and Behavior in Agricultural Land. Available at SSRN: https://ssrn.com/abstract=4841901 or http://dx.doi.org/10.2139/ssrn.4841901
 
 ## Mídias sociais
 
