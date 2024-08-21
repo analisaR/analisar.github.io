@@ -32,16 +32,20 @@ Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de e
 
 - Modelo de captura e recaptura espacialmente explícito (SECR)
 
-- Análise de dados circulares: sobreposição temporal de espécies
-  
+- Análise de regressão linear (LM), Modelo linear generalizado (GLM) e modelo aditivo (GAM): Probabilidade de predação de bovinos por onças, Probabilidade de predação de animais domésticos por onças-pardas
+
 - Redes ecológicas: rede trófica bipartida e rede trófica multipartida
 
-- Modelo linear generalizado (GLM) e modelo aditivo (GAM):  Probabilidade de predação de animais domésticos por onças-pardas
-
+- Análise de dados circulares: sobreposição temporal de espécies
+   
 - Análise de dados Likert: Índice Potencial de Conflito (PCI)
 
 - Análise de dados de indicadores socioambientais de projeto de monitoramento e avaliação
-  
+
+- Diagrama de Sankey: assassinatos causados por conflitos no campo
+
+- Visualizações gráficas em geral: waffle, slope, boxplot, intervalos de confiança, entre outras visualizações.
+   
 ## Empresa com DNA USP
 
 <img src="analisaR_DNA_USP.png" align="right" width="200px"> 
