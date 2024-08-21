@@ -1,12 +1,10 @@
 ## Sobre a empresa
 
-A analisaR é uma empresa recém-criada por mim, Francesca Palmeira, para a prestação de serviços em análise e visualização de dados socioambientais e de biodiversidade. Trabalho principalmente com o R, uma linguagem de código aberto que garante a transparência e a reprodutibilidade nos resultados gerados. A tipografia da logo da analisaR mistura caracteres que simbolizam o ambiente de trabalho dentro do R. As cores cinza e azul também são as mesmas encontradas na paleta de cores do R. A engrenagem significa "análises rodando", uma gíria utilizada na modelagem estatística. 
+A analisaR é uma empresa recém-criada por mim, Francesca Palmeira, para a prestação de serviços em **análise e visualização de dados socioambientais e de biodiversidade**. Trabalho principalmente com o R, uma linguagem de código aberto que garante a transparência e a reprodutibilidade nos resultados gerados. A tipografia da logo da analisaR mistura caracteres que simbolizam o ambiente de trabalho dentro do R. As cores cinza e azul também são as mesmas encontradas na paleta de cores do R. A engrenagem significa "análises rodando", uma gíria utilizada na modelagem estatística. 
 
-## Empresa com DNA USP
+### Empresa com DNA USP
 
-<img src="analisaR_DNA_USP.png" align="right" width="150px"> 
-
-A analisaR é uma empresa que tem o [selo DNA USP](https://hubusp.inovacao.usp.br/empresas). Prestamos serviços em análise e visualização de dados socioambientais e de biodiversidade garantindo a transparência e a reprodutibilidade dos resultados gerados. Ajudamos os nossos colaboradores na tomada de decisões de conservação baseada em evidências.
+A analisaR é uma empresa que tem o [selo DNA USP](https://hubusp.inovacao.usp.br/empresas). Presta serviços em análise e visualização de dados socioambientais e de biodiversidade garantindo a transparência e a reprodutibilidade dos resultados gerados. Ajuda os seus colaboradores na tomada de decisões de conservação baseada em evidências.
 
 ### Francesca Palmeira: minibio
 
@@ -83,11 +81,11 @@ Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de e
 - Visualizações gráficas variadas:
   - [Pictograma](https://github.com/fblpalmeira/pictograma_arvores)
   - [Fluxograma](https://github.com/fblpalmeira/DiagrammeR)
-  - [Waffle comum](https://github.com/fblpalmeira/reptiles_database)
-  - [Waffle personalizado](https://github.com/fblpalmeira/waffle)
-  - [Slope](https://github.com/fblpalmeira/highest-dwelling-mammal)
-  - [Treemap](https://github.com/fblpalmeira/cranlogs_treemap)
-  - [Boxplot](https://github.com/fblpalmeira/frogs_adehabitat)
+  - [*Waffle* comum](https://github.com/fblpalmeira/reptiles_database)
+  - [*Waffle* personalizado](https://github.com/fblpalmeira/waffle)
+  - [*Slope*](https://github.com/fblpalmeira/highest-dwelling-mammal)
+  - [*Treemap*](https://github.com/fblpalmeira/cranlogs_treemap)
+  - [*Boxplot*](https://github.com/fblpalmeira/frogs_adehabitat)
   - [Séries temporais](https://github.com/fblpalmeira/desmatamento_amazonia)
   - Gráficos de dispersão 2D e [3D](https://github.com/fblpalmeira/jaguar_distribution)
   - [Dendograma](https://github.com/fblpalmeira/number_of_extinctions)
@@ -99,7 +97,7 @@ Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de e
 
 #### Grupo NSC (FIP Avaliação)
 
-Por meio do Grupo Natureza, Conservação e Sociedade (Grupo NSC) e a Funatura, analisamos os indicadores de resultados, desempenho e impacto de oito mega projetos no Cerrado que fazem parte do [PIB/FIP (Plano de Investimentos do Brasil para o Fundo de Investimento Florestal)](http://fip.mma.gov.br). Uma grande oportunidade para avaliarmos o sucesso das ações de conservação promovidas por essa iniciativa do governo federal e que faz parte de um programa internacional de longo prazo. 
+Por meio do Grupo Natureza, Conservação e Sociedade (Grupo NSC), analisamos os indicadores de resultados, desempenho e impacto de oito mega projetos no Cerrado que fazem parte do [PIB/FIP (Plano de Investimentos do Brasil para o Fundo de Investimento Florestal)](http://fip.mma.gov.br). Uma grande oportunidade para avaliarmos o sucesso das ações de conservação promovidas por essa iniciativa do governo federal e que faz parte de um programa internacional de longo prazo. 
 
 Confira a primeira [reunião online](http://fip.funatura.org.br/projetos-do-fundo-de-investimento-florestal-passam-por-avaliacao-de-impactos/#more-2956) entre (i) o FIP Avaliação, (ii) o FIP Coordenação representado pela [Funatura](https://www.funatura.org.br) e (iii) os gestores dos oito projetos do programa. Trabalhamos com nove camadas de análise e mais de dez interações entre modalidades e componentes de avaliação. 
 
