@@ -1,10 +1,10 @@
 ## Sobre a empresa
 
-A analisaR é uma empresa recém-criada por Francesca Palmeira para a prestação de serviços em análise e visualização de dados socioambientais e de biodiversidade. Trabalho principalmente com o R, uma linguagem de código aberto que garante a transparência e a reprodutibilidade nos resultados gerados. A tipografia da logo da analisaR mistura caracteres que simbolizam o ambiente de trabalho dentro do R. As cores cinza e azul também são as mesmas encontradas na paleta de cores do R. A engrenagem significa "análises rodando", uma gíria utilizada na modelagem estatística. 
+A analisaR é uma empresa recém-criada por mim, Francesca Palmeira, para a prestação de serviços em análise e visualização de dados socioambientais e de biodiversidade. Trabalho principalmente com o R, uma linguagem de código aberto que garante a reprodutibilidade e a transparência nos resultados gerados. A tipografia da logo da analisaR mistura caracteres que simbolizam o ambiente de trabalho dentro do R. As cores cinza e azul também são as mesmas encontradas na paleta de cores do R. A engrenagem significa "análises rodando", uma gíria utilizada na modelagem estatística. 
 
 ### DNA USP
 
-A analisaR é uma empresa que tem o [selo DNA USP](https://hubusp.inovacao.usp.br/empresas). Presta serviços em análise e visualização de dados socioambientais e de biodiversidade, garantindo a transparência e a reprodutibilidade dos resultados gerados. Ajuda os seus colaboradores na tomada de decisões de conservação baseada em evidências.
+A analisaR é uma empresa que tem o [selo DNA USP](https://hubusp.inovacao.usp.br/empresas). A missão da empresa é auxiliar os seus colaboradores na tomada de decisões de conservação baseada em evidências.
 
 ### Minibio de Francesca Palmeira
 
@@ -116,7 +116,10 @@ Preprint: Palmeira FBL, Jacomo AT, Trinca CT, de Araujo GR, Alves GB, de Oliveir
 
 ### Informações adicionais
 
-Antes de atuar pela analisaR, também prestei serviços em (i) análise de dados de indicadores socioambientais de seis unidades de conservação do mosaico de áreas protegidas do Baixo Rio Negro para o Instituto Socioambiental (ISA) e (ii) análise de dados de movimento animal das onças-pardas e onças-pintadas na Caatinga para o Programa Amigos da Onça (Instituto Pró-Carnívoros).
+Antes de atuar pela analisaR, também prestei serviços em:
+
+- (i) análise de dados de indicadores socioambientais de seis unidades de conservação do mosaico de áreas protegidas do Baixo Rio Negro para o Instituto Socioambiental (ISA); e,
+- (ii) análise de dados de movimento animal das onças-pardas e onças-pintadas na Caatinga para o Programa Amigos da Onça (Instituto Pró-Carnívoros).
 
 ## Mídias sociais
 
