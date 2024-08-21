@@ -88,7 +88,7 @@ Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de e
 
 <img src="analisaR_DNA_USP.png" align="right" width="150px"> 
 
-A analisaR (CNPJ 42.948.481.0001/01) é uma empresa que tem o [selo DNA USP](https://hubusp.inovacao.usp.br/empresas)! Prestamos serviços em análise e visualização de dados socioambientais e de biodiversidade garantindo a transparência e a reprodutibilidade dos resultados gerados. Ajudamos os nossos colaboradores na tomada de decisões de conservação baseada em evidências.
+A analisaR é uma empresa que tem o [selo DNA USP](https://hubusp.inovacao.usp.br/empresas)! Prestamos serviços em análise e visualização de dados socioambientais e de biodiversidade garantindo a transparência e a reprodutibilidade dos resultados gerados. Ajudamos os nossos colaboradores na tomada de decisões de conservação baseada em evidências.
 
 ## Nossos clientes
 
@@ -112,21 +112,21 @@ Preprint: Palmeira FBL, Jacomo AT, Trinca CT, de Araujo GR, Alves GB, de Oliveir
 
 ## Mídias sociais
 
-[Twitter](https://twitter.com/analisaR_dados)
+<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/logo_twitter.png" width="40" height="30"/> [analisaR_dados](https://twitter.com/analisaR_dados)
 
-[Instagram](https://www.instagram.com/analisar_dados) 
+<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/logo_instagram.png" width="40" height="40"/> [analisar_dados](https://www.instagram.com/analisar_dados) 
 
-[Facebook](https://www.facebook.com/analisaR.dadosambientais)
+<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/logo_facebook.png" width="40" height="40"/> [analisaR.dadosambientais](https://www.facebook.com/analisaR.dadosambientais)
 
 ## Contato
 
-<img src="logo_email.png" width="40" height="40" /> [francesca@alumni.usp.br](mailto:francesca@alumni.usp.br)
+<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/logo_email.png" width="40" height="40" /> [francesca@alumni.usp.br](mailto:francesca@alumni.usp.br)
 
 ## Website pessoal
 
-<img src="logo_website.png" width="40" height="40" /> [fblpalmeira.github.io](https://fblpalmeira.github.io) 
+<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/logo_website.png" width="40" height="40" /> [fblpalmeira.github.io](https://fblpalmeira.github.io) 
 
 ## Suporte
 
-A manutenção desta página é feita por [Francesca Palmeira](mailto:francesca@alumni.usp.br).
+A manutenção desta página é feita por Francesca Palmeira. Última atualização feita em 21/08/2024.
 
