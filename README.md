@@ -4,7 +4,7 @@ A analisaR é uma empresa criada em agosto de 2020 por Francesca Palmeira para a
 
 #### Francesca Palmeira: minibio
 
-Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de experiência em atividades de pesquisa, ensino e extensão. Estou interessada em compreender como as mudanças ambientais podem influenciar i) o movimento dos indivíduos, ii) a distribuição de espécies, iii) os mecanismos que regulam a coexistência de populações, iv) a estrutura e a dinâmica de comunidades e v) os conflitos de conservação, não necessariamente nesta ordem. Tenho experiência em Ecologia Aplicada, Modelagem Ecológica e Biologia da Conservação. Desenvolvi projetos de pesquisa aplicada à conservação nos biomas Mata Atlântica, Cerrado e Floresta Amazônica. Trabalho com as linguagens R e BUGS e com outras ferramentas de análise de dados, especialmente as versões livres. Ofereço treinamento e mentoria para estudantes por meio das RLadies Ribeirão Preto que faz parte das RLadies Global, uma organização sem fins lucrativos que tem a finalidade de promover o uso da linguagem R entre grupos subrepresentados. Para mais informações sobre as minhas habilidades em análise e visualização de dados, acesse o meu repositório no GitHub @fblpalmeira. Antes de atuar pela analisaR, prestei serviços em (i) análise de dados de indicadores socioambientais de unidades de conservação do mosaico de áreas protegidas do Baixo Rio Negro  para o Instituto Socioambiental (ISA) e (ii) análise de dados de movimento animal no Projeto Monitoramento das onças-pardas e onças-pintadas na Caatinga para o Programa Amigos da Onça  do Instituto para a conservação dos carnívoros neotropicais (Pró-Carnívoros).
+Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de experiência em atividades de pesquisa, ensino e extensão. Estou interessada em compreender como as mudanças ambientais podem influenciar i) o movimento dos indivíduos, ii) a distribuição de espécies, iii) os mecanismos que regulam a coexistência de populações, iv) a estrutura e a dinâmica de comunidades e v) os conflitos de conservação, não necessariamente nesta ordem. Tenho experiência em Ecologia Aplicada, Modelagem Ecológica e Biologia da Conservação. Desenvolvi projetos de pesquisa aplicada à conservação nos biomas Mata Atlântica, Cerrado e Floresta Amazônica. Trabalho com as linguagens R e BUGS e com outras ferramentas de análise de dados, especialmente as versões livres. Ofereço treinamento e mentoria para estudantes por meio das [RLadies Ribeirão Preto](https://www.meetup.com/rladies-ribeirao-preto) que faz parte das [RLadies Global](https://rladies.org), uma organização sem fins lucrativos que tem a finalidade de promover o uso da linguagem R entre grupos subrepresentados. Para mais informações sobre as minhas habilidades em análise e visualização de dados, acesse o meu [repositório no GitHub](https://github.com/fblpalmeira). Antes de atuar pela analisaR, prestei serviços em (i) análise de dados de indicadores socioambientais de unidades de conservação do mosaico de áreas protegidas do Baixo Rio Negro para o Instituto Socioambiental (ISA) e (ii) análise de dados de movimento animal no Projeto Monitoramento das onças-pardas e onças-pintadas na Caatinga para o Programa Amigos da Onça do Instituto para a conservação dos carnívoros neotropicais (Pró-Carnívoros).
 
 ## Serviços oferecidos
 
@@ -22,29 +22,29 @@ Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de e
 
 #### Descrição de algumas análises, modelagens e visualizações
 
-- Animação para visualizar o movimento animal:
+- Animação para visualizar a trajetória do movimento animal:
   [Movimento de gatos domésticos](https://github.com/fblpalmeira/cats_uk)
   [Movimento de onças no Pantanal](https://github.com/fblpalmeira/movevis)
 
 - Mapa interativo:
-  [Área de vida de gatos domésticos](https://rpubs.com/fblpalmeira/cats_uk)
   [Localização de onças](https://github.com/fblpalmeira/jaguar_interactivemap)
   [Área de vida de onças](https://rpubs.com/fblpalmeira/jaguar_MCP95)
+  [Área de vida de gatos domésticos](https://rpubs.com/fblpalmeira/cats_uk)
   [Assassinatos causados por conflitos no campo](https://github.com/fblpalmeira/murders_interactivemap)
 
 - Modelo de distribuição de espécies (Maxent)
   
 - Modelo de ocupação state e dinâmico:
-  [Abundância de queixadase catetos](https://github.com/fblpalmeira/peccary_abundance)
+  [Abundância de queixadas e catetos](https://github.com/fblpalmeira/peccary_abundance)
 
 - Modelo de captura e recaptura espacialmente explícito (SECR)
 
 - Modelagem de área de vida (AKDE):
   [Estimativa da área de vida de uma onça](https://github.com/fblpalmeira/AKDE)
 
-- Clusterização e segmentação de estados comportamentais (ex.: animal em trânsito, em busca ativa ou imóvel) 
+- Clusterização de estados comportamentais (ex.: animal em trânsito, em busca ativa ou imóvel) 
 
-- Análise de regressão linear (LM), Modelo linear generalizado (GLM) e modelo aditivo (GAM):
+- Análise de regressão linear (LM), modelos generalizados (GLM ou GAM):
   [Probabilidade de predação de bovinos por onças](https://github.com/fblpalmeira/cattle_predation)
   [Probabilidade de predação de animais domésticos por onças-pardas](https://github.com/fblpalmeira/puma_predation)
 
@@ -65,7 +65,7 @@ Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de e
   [Avaliação dos programas de pós-graduação em Ecologia](https://github.com/fblpalmeira/PPG_CAPES)
 
 - Análise de dados de mídias sociais:
-  [Contagem das palavras e dos emojis mais usados por uma determinada conta no Twitter](https://github.com/fblpalmeira/rtweet)
+  [Contagem de palavras e emojis mais usados em um conta no Twitter](https://github.com/fblpalmeira/rtweet)
 
 - Análise de sentimento
 
@@ -84,15 +84,15 @@ Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de e
 
 ## Empresa com DNA USP
 
-<img src="analisaR_DNA_USP.png" align="right" width="200px"> 
+<img src="analisaR_DNA_USP.png" align="right" width="150px"> 
 
-A analisaR é uma [empresa com o DNA USP](https://hubusp.inovacao.usp.br/empresas)! Prestamos serviços em análise e visualização de dados socioambientais e de biodiversidade garantindo a transparência e a reprodutibilidade dos resultados gerados. Ajudamos os nossos colaboradores na tomada de decisões de conservação baseada em evidências.
+A analisaR é uma [empresa que tem o selo DNA USP](https://hubusp.inovacao.usp.br/empresas)! Prestamos serviços em análise e visualização de dados socioambientais e de biodiversidade garantindo a transparência e a reprodutibilidade dos resultados gerados. Ajudamos os nossos colaboradores na tomada de decisões de conservação baseada em evidências.
 
 ## Nossos clientes
 
 #### Grupo NSC (FIP Avaliação)
 
-Por meio do Grupo Natureza, Conservação e Sociedade (Grupo NSC), analisamos os indicadores de resultados, desempenho e impacto de oito mega projetos no Cerrado que fazem parte do [PIB/FIP (Plano de Investimentos do Brasil para o Fundo de Investimento Florestal)](http://fip.mma.gov.br). Uma grande oportunidade para avaliarmos o sucesso das ações de conservação promovidas por essa iniciativa do governo federal e que faz parte de um programa internacional de longo prazo. 
+Por meio do Grupo Natureza, Conservação e Sociedade (Grupo NSC) e a Funatura, analisamos os indicadores de resultados, desempenho e impacto de oito mega projetos no Cerrado que fazem parte do [PIB/FIP (Plano de Investimentos do Brasil para o Fundo de Investimento Florestal)](http://fip.mma.gov.br). Uma grande oportunidade para avaliarmos o sucesso das ações de conservação promovidas por essa iniciativa do governo federal e que faz parte de um programa internacional de longo prazo. 
 
 Confira a primeira [reunião online](http://fip.funatura.org.br/projetos-do-fundo-de-investimento-florestal-passam-por-avaliacao-de-impactos/#more-2956) entre (i) o FIP Avaliação, (ii) o FIP Coordenação representado pela [Funatura](https://www.funatura.org.br) e (iii) os gestores dos oito projetos do programa. Trabalhamos com nove camadas de análise e mais de dez interações entre modalidades e componentes de avaliação. 
 
