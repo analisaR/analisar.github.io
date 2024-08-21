@@ -44,7 +44,7 @@ Confira também a [Oficina FIP DGM-CAR no âmbito do Programa de Investimento Fl
 
 Analisamos dados de movimento das onças-pintadas monitoradas com colares GPS no Projeto Corredor das Onças do [Instituto Onça-pintada (IOP)](https://jaguars.org/). 
 
-Palmeira, FBL and Jacomo, A and Trinca, CT and de Araujo, GR and Alves, GB and de Oliveira, G and Moreira, RA and Silveira, L, Jaguar Habitat Use and Behavior in Agricultural Land. Available at SSRN: https://ssrn.com/abstract=4841901 or http://dx.doi.org/10.2139/ssrn.4841901
+Palmeira FBL, Jacomo A, Trinca CT, de Araujo GR, Alves GB, de Oliveira G, Moreira RA and Silveira L. Jaguar Habitat Use and Behavior in Agricultural Land. Available at SSRN: https://ssrn.com/abstract=4841901 or http://dx.doi.org/10.2139/ssrn.4841901
 
 ## Mídias sociais
 
