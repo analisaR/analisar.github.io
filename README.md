@@ -2,49 +2,55 @@
 
 A analisaR é uma empresa criada em agosto de 2020 por Francesca Palmeira para a prestação de serviços em análise e visualização de dados socioambientais e de biodiversidade. Trabalhamos principalmente com o R, uma linguagem de código aberto que garante a transparência e a reprodutibilidade nos resultados gerados. A tipografia da nossa logo mistura caracteres que simbolizam o ambiente de trabalho dentro do R. As cores cinza e azul também são as mesmas encontradas na paleta de cores da logomarca do R. A engrenagem significa "análises rodando", uma gíria utilizada na modelagem estatística. 
 
-## Francesca Palmeira: minibio
+### Francesca Palmeira: minibio
 
 Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de experiência em atividades de pesquisa, ensino e extensão. Estou interessada em compreender como as mudanças ambientais podem influenciar i) o movimento dos indivíduos, ii) a distribuição de espécies, iii) os mecanismos que regulam a coexistência de populações, iv) a estrutura e a dinâmica de comunidades e v) os conflitos de conservação, não necessariamente nesta ordem. Tenho experiência em Ecologia Aplicada, Modelagem Ecológica e Biologia da Conservação. Desenvolvi projetos de pesquisa aplicada à conservação nos biomas Mata Atlântica, Cerrado e Floresta Amazônica. Trabalho com as linguagens R e BUGS e com outras ferramentas de análise de dados, especialmente as versões livres. Ofereço treinamento e mentoria para estudantes por meio das RLadies Ribeirão Preto que faz parte das RLadies Global, uma organização sem fins lucrativos que tem a finalidade de promover o uso da linguagem R entre grupos subrepresentados. Para mais informações sobre as minhas habilidades em análise e visualização de dados, acesse o meu repositório no GitHub @fblpalmeira. Antes de atuar pela analisaR, prestei serviços em (i) análise de dados de indicadores socioambientais de unidades de conservação do mosaico de áreas protegidas do Baixo Rio Negro  para o Instituto Socioambiental (ISA) e (ii) análise de dados de movimento animal no Projeto Monitoramento das onças-pardas e onças-pintadas na Caatinga para o Programa Amigos da Onça  do Instituto para a conservação dos carnívoros neotropicais (Pró-Carnívoros).
 
 ## Serviços oferecidos
 
-- Estruturação e gerenciamento de banco de dados 
+- Estruturação e gerenciamento de banco de dados: [Carnivore Neotropical Datapaper](https://github.com/fblpalmeira/Neotropical_Carnivores) 
 
 - Análises exploratórias
 
-- Análises quantitativas
+- Análises estatísticas
   
-- Modelagem estatística
+- Modelagem ecológica
 
 - Criação e manutenção de repositórios
   
 - Assessoria em análise de dados
 
-## Tipo de análises 
+## Descrição detalhada de algumas análises, modelagens e visualizações
 
 - Animação para visualizar o movimento animal: [movimento de gatos domésticos](https://github.com/fblpalmeira/cats_uk), [movimento de onças no Pantanal](https://github.com/fblpalmeira/movevis)
 
-- Mapa interativo: [área de vida de gatos domésticos](https://rpubs.com/fblpalmeira/cats_uk), [área de vida de onças](https://rpubs.com/fblpalmeira/jaguar_MCP95), [assassinatos causados por conflitos no campo](https://github.com/fblpalmeira/murders_interactivemap).
+- Mapa interativo: [área de vida de gatos domésticos](https://rpubs.com/fblpalmeira/cats_uk), [localização de onças](https://github.com/fblpalmeira/jaguar_interactivemap), [área de vida de onças](https://rpubs.com/fblpalmeira/jaguar_MCP95), [assassinatos causados por conflitos no campo](https://github.com/fblpalmeira/murders_interactivemap).
 
 - Modelo de distribuição de espécies (Maxent)
   
-- Modelo de ocupação state e dinâmico
+- Modelo de ocupação state e dinâmico: [Abundância de pecaris](https://github.com/fblpalmeira/peccary_abundance)
 
 - Modelo de captura e recaptura espacialmente explícito (SECR)
 
-- Análise de regressão linear (LM), Modelo linear generalizado (GLM) e modelo aditivo (GAM): [Probabilidade de predação de bovinos por onças](https://github.com/fblpalmeira/cattle_predation), [Probabilidade de predação de animais domésticos por onças-pardas]
+- Modelagem de área de vida (AKDE): [estimativa da área de vida de uma onça](https://github.com/fblpalmeira/AKDE)
 
-- Redes ecológicas: rede trófica bipartida e rede trófica multipartida
+- Clusterização e segmentação de estados comportamentais (ex.: animal em trânsito, em busca ativa ou imóvel) 
 
-- Análise de dados circulares: sobreposição temporal de espécies
+- Análise de regressão linear (LM), Modelo linear generalizado (GLM) e modelo aditivo (GAM): [Probabilidade de predação de bovinos por onças](https://github.com/fblpalmeira/cattle_predation), [Probabilidade de predação de animais domésticos por onças-pardas](https://github.com/fblpalmeira/puma_predation)
+
+- Redes ecológicas: [rede trófica bipartida](https://github.com/fblpalmeira/jaguar_bipartite) e [rede trófica multipartida](https://github.com/fblpalmeira/foodweb)
+
+- Diagrama de Sankey: [assassinatos causados por conflitos no campo](https://github.com/fblpalmeira/assassinatos_CPT)
+
+- Análise de dados circulares: [sobreposição temporal de espécies](https://github.com/fblpalmeira/jaguar_preys_traptimes)
    
 - Análise de dados na escala Likert: [Índice Potencial de Conflito (PCI)](https://github.com/fblpalmeira/pcir)
 
 - Análise de dados de indicadores de projeto de monitoramento e avaliação ou de programas: [avaliação dos programas de pós-graduação em Ecologia](https://github.com/fblpalmeira/PPG_CAPES)
 
-- Diagrama de Sankey: [assassinatos causados por conflitos no campo](https://github.com/fblpalmeira/assassinatos_CPT)
+- Análise de dados de mídias sociais: [análise de dados do twitter](https://github.com/fblpalmeira/rtweet)
 
-- Visualizações gráficas em geral: [pictogramas](https://github.com/fblpalmeira/pictograma_arvores), [fluxogramas](https://github.com/fblpalmeira/DiagrammeR), [waffle](https://github.com/fblpalmeira/waffle), [slope](https://github.com/fblpalmeira/highest-dwelling-mammal), [treemap](https://github.com/fblpalmeira/cranlogs_treemap), boxplot, intervalos de confiança, entre outras visualizações.
+- Visualizações gráficas em geral: [pictogramas](https://github.com/fblpalmeira/pictograma_arvores), [fluxogramas](https://github.com/fblpalmeira/DiagrammeR), [waffle comum](https://github.com/fblpalmeira/reptiles_database), [waffle personalizado](https://github.com/fblpalmeira/waffle), [slope](https://github.com/fblpalmeira/highest-dwelling-mammal), [treemap](https://github.com/fblpalmeira/cranlogs_treemap), [boxplot](https://github.com/fblpalmeira/frogs_adehabitat), intervalos de confiança, [séries temporais](https://github.com/fblpalmeira/desmatamento_amazonia), dispersão 2D e [3D](https://github.com/fblpalmeira/jaguar_distribution), [dendogramas](https://github.com/fblpalmeira/number_of_extinctions), [arte experimental no R](https://github.com/fblpalmeira/aRtsy), entre outras visualizações.
    
 ## Empresa com DNA USP
 
