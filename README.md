@@ -119,19 +119,19 @@ Antes de atuar pela analisaR, também prestei serviços em (i) análise de dados
 
 ## Mídias sociais
 
-<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/logo_twitter.png" width="40" height="30"/> [analisaR_dados](https://twitter.com/analisaR_dados)
+<img src="logo_twitter.png" width="40" height="30"/> [analisaR_dados](https://twitter.com/analisaR_dados)
 
-<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/logo_instagram.png" width="40" height="40"/> [analisar_dados](https://www.instagram.com/analisar_dados) 
+<img src="logo_instagram.png" width="40" height="40"/> [analisar_dados](https://www.instagram.com/analisar_dados) 
 
-<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/logo_facebook.png" width="40" height="40"/> [analisaR.dadosambientais](https://www.facebook.com/analisaR.dadosambientais)
+<img src="logo_facebook.png" width="40" height="40"/> [analisaR.dadosambientais](https://www.facebook.com/analisaR.dadosambientais)
 
 ## Contato
 
-<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/data/logo_email.png" width="40" height="40" /> [francesca@alumni.usp.br](mailto:francesca@alumni.usp.br)
+<img src="logo_email.png" width="40" height="40" /> [francesca@alumni.usp.br](mailto:francesca@alumni.usp.br)
 
 ## Website pessoal
 
-<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/logo_website.png" width="40" height="40" /> [fblpalmeira.github.io](https://fblpalmeira.github.io) 
+<img src="logo_website.png" width="40" height="40" /> [fblpalmeira.github.io](https://fblpalmeira.github.io) 
 
 ## Suporte
 
