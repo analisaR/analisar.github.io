@@ -22,9 +22,9 @@ Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de e
 
 ## Tipo de análises 
 
-- Animação para visualizar o movimento animal: movimento de gatos domésticos, movimento de onças no Pantanal
+- Animação para visualizar o movimento animal: [movimento de gatos domésticos](https://github.com/fblpalmeira/cats_uk), [movimento de onças no Pantanal](https://github.com/fblpalmeira/movevis)
 
-- Mapa interativo: localização e área de vida de gatos domésticos, localização de onças no Pantanal, localização de assassinatos causados por conflitos no campo.
+- Mapa interativo: [área de vida de gatos domésticos](https://rpubs.com/fblpalmeira/cats_uk), [área de vida de onças](https://rpubs.com/fblpalmeira/jaguar_MCP95), [assassinatos causados por conflitos no campo](https://github.com/fblpalmeira/murders_interactivemap).
 
 - Modelo de distribuição de espécies (Maxent)
   
@@ -32,19 +32,19 @@ Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de e
 
 - Modelo de captura e recaptura espacialmente explícito (SECR)
 
-- Análise de regressão linear (LM), Modelo linear generalizado (GLM) e modelo aditivo (GAM): Probabilidade de predação de bovinos por onças, Probabilidade de predação de animais domésticos por onças-pardas
+- Análise de regressão linear (LM), Modelo linear generalizado (GLM) e modelo aditivo (GAM): [Probabilidade de predação de bovinos por onças](https://github.com/fblpalmeira/cattle_predation), [Probabilidade de predação de animais domésticos por onças-pardas]
 
 - Redes ecológicas: rede trófica bipartida e rede trófica multipartida
 
 - Análise de dados circulares: sobreposição temporal de espécies
    
-- Análise de dados Likert: Índice Potencial de Conflito (PCI)
+- Análise de dados na escala Likert: [Índice Potencial de Conflito (PCI)](https://github.com/fblpalmeira/pcir)
 
-- Análise de dados de indicadores socioambientais de projeto de monitoramento e avaliação
+- Análise de dados de indicadores de projeto de monitoramento e avaliação ou de programas: [avaliação dos programas de pós-graduação em Ecologia](https://github.com/fblpalmeira/PPG_CAPES)
 
-- Diagrama de Sankey: assassinatos causados por conflitos no campo
+- Diagrama de Sankey: [assassinatos causados por conflitos no campo](https://github.com/fblpalmeira/assassinatos_CPT)
 
-- Visualizações gráficas em geral: waffle, slope, boxplot, intervalos de confiança, entre outras visualizações.
+- Visualizações gráficas em geral: [pictogramas](https://github.com/fblpalmeira/pictograma_arvores), [fluxogramas](https://github.com/fblpalmeira/DiagrammeR), [waffle](https://github.com/fblpalmeira/waffle), [slope](https://github.com/fblpalmeira/highest-dwelling-mammal), [treemap](https://github.com/fblpalmeira/cranlogs_treemap), boxplot, intervalos de confiança, entre outras visualizações.
    
 ## Empresa com DNA USP
 
