@@ -20,6 +20,28 @@ Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de e
   
 - Assessoria em análise de dados
 
+## Tipo de análises 
+
+- Animação para visualizar o movimento animal: movimento de gatos domésticos, movimento de onças no Pantanal
+
+- Mapa interativo: localização e área de vida de gatos domésticos, localização de onças no Pantanal, localização de assassinatos causados por conflitos no campo.
+
+- Modelo de distribuição de espécies (Maxent)
+  
+- Modelo de ocupação state e dinâmico
+
+- Modelo de captura e recaptura espacialmente explícito (SECR)
+
+- Análise de dados circulares: sobreposição temporal de espécies
+  
+- Redes ecológicas: rede trófica bipartida e rede trófica multipartida
+
+- Modelo linear generalizado (GLM) e modelo aditivo (GAM):  Probabilidade de predação de animais domésticos por onças-pardas
+
+- Análise de dados Likert: Índice Potencial de Conflito (PCI)
+
+- Análise de dados de indicadores socioambientais de projeto de monitoramento e avaliação
+  
 ## Empresa com DNA USP
 
 <img src="analisaR_DNA_USP.png" align="right" width="200px"> 
