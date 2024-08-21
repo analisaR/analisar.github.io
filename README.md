@@ -1,10 +1,10 @@
 ## Sobre a empresa
 
-A analisaR é uma empresa recém-criada por mim, Francesca Palmeira, para a prestação de serviços em análise e visualização de dados socioambientais e de biodiversidade. Trabalho principalmente com o R, uma linguagem de código aberto que garante a reprodutibilidade e a transparência nos resultados gerados. A tipografia da logo da analisaR mistura caracteres que simbolizam o ambiente de trabalho dentro do R. As cores cinza e azul também são as mesmas encontradas na paleta de cores do R. A engrenagem significa "análises rodando", uma gíria utilizada na modelagem estatística. 
+A analisaR é uma empresa recém-criada por mim, Francesca Palmeira, para a prestação de serviços em análise e visualização de dados socioambientais e de biodiversidade. Trabalhamos principalmente com o R, uma linguagem de código aberto que garante a reprodutibilidade e a transparência nos resultados gerados. A tipografia da logo da analisaR mistura caracteres que simbolizam o ambiente de trabalho dentro do R. As cores cinza e azul também são as mesmas encontradas na paleta de cores do R. A engrenagem significa "análises rodando", uma gíria utilizada na modelagem estatística. 
 
 ### DNA USP
 
-A analisaR é uma empresa que tem o [selo DNA USP](https://hubusp.inovacao.usp.br/empresas). A missão da empresa é auxiliar ações, projetos ou programas de conservação na tomada de decisão baseada em evidência.
+A analisaR é uma empresa que tem o [selo DNA USP](https://hubusp.inovacao.usp.br/empresas). A nossa missão é auxiliar ações, projetos ou programas de conservação na tomada de decisão baseada em evidência.
 
 ### Minibio de Francesca Palmeira
 
