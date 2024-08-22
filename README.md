@@ -6,7 +6,7 @@ A analisaR é uma empresa recém-criada por mim, Francesca Palmeira, para a pres
 
 Somos uma empresa com o [DNA USP](https://hubusp.inovacao.usp.br/empresas). A nossa missão é auxiliar ações, projetos ou programas de conservação na tomada de decisão baseada em evidências.
 
-### Francesca Palmeira Minibio
+### Francesca Palmeira - Minibio
 
 Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de experiência em atividades de pesquisa, ensino e extensão. Tenho experiência em Ecologia Aplicada, Modelagem Ecológica e Biologia da Conservação. Trabalho com as linguagens R e BUGS e com outras ferramentas de análise de dados, especialmente as versões livres. Ofereço treinamento e mentoria para estudantes por meio das [RLadies Ribeirão Preto](https://www.meetup.com/rladies-ribeirao-preto) que faz parte das [RLadies Global](https://rladies.org), uma organização sem fins lucrativos que tem a finalidade de promover o uso da linguagem R entre grupos subrepresentados. Também faço parte do programa [rOpenSci Champions 2023-2024](https://ropensci.org/blog/2024/02/15/champions-program-champions-2024/), apoiado pela iniciativa Chan Zuckerberg, e como parte desse treinamento estou desenvolvendo um pacote no R para medir o potencial de conflito entre grupos de interesse. Para mais informações, consulte a minha [página pessoal](https://fblpalmeira.github.io). 
 
@@ -23,6 +23,8 @@ Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de e
 - Análises estatísticas
   
 - Modelagem ecológica
+
+- Visualização gráfica
 
 ### Exemplo de estruturação de banco de dados
 
