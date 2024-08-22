@@ -121,6 +121,7 @@ Preprint: Palmeira FBL, Jacomo AT, Trinca CT, de Araujo GR, Alves GB, de Oliveir
 Antes de atuar pela analisaR, também prestei serviços em:
 
 - (i) análise de dados de movimento animal de onças-pardas e onças-pintadas na Caatinga para o Programa Amigos da Onça (Instituto Pró-Carnívoros); e,
+  
 - (ii) análise de dados de indicadores socioambientais de seis unidades de conservação do mosaico de áreas protegidas do Baixo Rio Negro para o Instituto Socioambiental (ISA).
  
 ## Mídias sociais
