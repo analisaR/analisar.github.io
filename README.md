@@ -75,7 +75,7 @@ Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de e
 
 - Análise de sentimento
 
-- Mapa interativo:
+- Mapas interativos:
   - [Localização de onças](https://github.com/fblpalmeira/jaguar_interactivemap)
   - [Área de vida de onças](https://rpubs.com/fblpalmeira/jaguar_MCP95)
   - [Área de vida de gatos domésticos](https://rpubs.com/fblpalmeira/cats_uk)
