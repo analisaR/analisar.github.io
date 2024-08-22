@@ -96,7 +96,7 @@ Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de e
 
 Para mais informações sobre as minhas habilidades em análise e visualização de dados, acesse o meu [repositório no GitHub](https://github.com/fblpalmeira).
 
-## Nossos clientes
+## Trabalhos realizados
 
 ### Grupo NSC (FIP Avaliação)
 
