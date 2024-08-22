@@ -33,16 +33,6 @@ Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de e
 
 ### Exemplo de análises, modelagens e visualizações
 
-- Animação para visualizar o movimento animal:
-  - [Movimento de gatos domésticos](https://github.com/fblpalmeira/cats_uk)
-  - [Movimento de onças no Pantanal](https://github.com/fblpalmeira/movevis)
-
-- Mapa interativo:
-  - [Localização de onças](https://github.com/fblpalmeira/jaguar_interactivemap)
-  - [Área de vida de onças](https://rpubs.com/fblpalmeira/jaguar_MCP95)
-  - [Área de vida de gatos domésticos](https://rpubs.com/fblpalmeira/cats_uk)
-  - [Assassinatos causados por conflitos no campo](https://github.com/fblpalmeira/murders_interactivemap)
-
 - Modelo de distribuição de espécies (Maxent)
   
 - Modelo de ocupação *state* e dinâmico:
@@ -54,6 +44,10 @@ Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de e
   - [Estimativa da área de vida de uma onça](https://github.com/fblpalmeira/AKDE)
 
 - Clusterização de estados comportamentais (ex.: animal em trânsito, em busca ativa ou imóvel) 
+
+- Animação para visualizar o movimento animal:
+  - [Movimento de gatos domésticos](https://github.com/fblpalmeira/cats_uk)
+  - [Movimento de onças no Pantanal](https://github.com/fblpalmeira/movevis)
 
 - Regressão linear (LM) e modelos generalizados (GLM ou GAM):
   - [Probabilidade de predação de bovinos por onças](https://github.com/fblpalmeira/cattle_predation)
@@ -80,6 +74,12 @@ Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de e
   - [Contagem de palavras e emojis de uma conta no Twitter](https://github.com/fblpalmeira/rtweet)
 
 - Análise de sentimento
+
+- Mapa interativo:
+  - [Localização de onças](https://github.com/fblpalmeira/jaguar_interactivemap)
+  - [Área de vida de onças](https://rpubs.com/fblpalmeira/jaguar_MCP95)
+  - [Área de vida de gatos domésticos](https://rpubs.com/fblpalmeira/cats_uk)
+  - [Assassinatos causados por conflitos no campo](https://github.com/fblpalmeira/murders_interactivemap)
 
 - Visualizações gráficas variadas:
   - [Pictograma](https://github.com/fblpalmeira/pictograma_arvores)
