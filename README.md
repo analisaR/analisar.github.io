@@ -110,9 +110,9 @@ Preprint: Palmeira FBL, Jacomo AT, Trinca CT, de Araujo GR, Alves GB, de Oliveir
 
 ### Grupo NSC (FIP Avaliação)
 
-Por meio do Grupo Natureza, Conservação e Sociedade (Grupo NSC), analisei os indicadores de desempenho de oito mega projetos no Cerrado que fazem parte do [PIB/FIP (Plano de Investimentos do Brasil para o Fundo de Investimento Florestal)](http://fip.mma.gov.br). Foi uma grande oportunidade poder avaliar o sucesso das ações de conservação promovidas por uma iniciativa que faz parte de um programa internacional de longo prazo. 
+Análise de indicadores de desempenho de oito mega projetos no Cerrado que fazem parte do [PIB/FIP (Plano de Investimentos do Brasil para o Fundo de Investimento Florestal)](http://fip.mma.gov.br), uma iniciativa que faz parte de um programa internacional de longo prazo. 
 
-Confira a primeira [reunião online](http://fip.funatura.org.br/projetos-do-fundo-de-investimento-florestal-passam-por-avaliacao-de-impactos/#more-2956) entre (i) o FIP Avaliação, (ii) o FIP Coordenação representado pela [Funatura](https://www.funatura.org.br) e (iii) os gestores dos oito projetos do programa. Trabalhamos com nove camadas de análise e mais de dez interações entre modalidades e componentes de avaliação. 
+Confira a primeira [reunião online](http://fip.funatura.org.br/projetos-do-fundo-de-investimento-florestal-passam-por-avaliacao-de-impactos/#more-2956) entre (i) o FIP Avaliação, (ii) o FIP Coordenação representado pela [Funatura](https://www.funatura.org.br) e (iii) os gestores dos oito projetos do programa. O grupo trabalhou com nove camadas de análise e mais de dez interações entre modalidades e componentes de avaliação. 
 
 Confira a [Oficina Intersetorial Reflexões sobre os Avanços dos Projetos – FIP ABC, Paisagens Rurais e Macaúba no contexto do Programa de Investimento Florestal do Brasil PIB/FIP](http://fip.funatura.org.br/projetos-abc-paisagens-rurais-e-macauba-compartilham-avancos/). O objetivo foi compartilhar os resultados e avanços dos projetos, ampliar o canal de diálogo com os beneficiários finais: produtores rurais, técnicos de campo e gestores regionais dos projetos, além de coletar elementos para avaliação sistemática do programa.
 
@@ -122,7 +122,7 @@ Confira também a [Oficina FIP DGM-CAR no âmbito do Programa de Investimento Fl
 
 ### Informações adicionais
 
-Antes de atuar pela analisaR, também prestei serviços em:
+Antes de atuar pela analisaR, Francesca também prestou serviços em:
 
 - (i) análise de dados de movimento animal de onças-pardas e onças-pintadas na Caatinga para o Programa Amigos da Onça (Instituto Pró-Carnívoros); e,
   
@@ -136,6 +136,6 @@ Antes de atuar pela analisaR, também prestei serviços em:
 
 ## Contato e suporte
 
-A manutenção desta página é feita por Francesca Palmeira. A última atualização foi feita em 22/08/2024.
+A manutenção desta página é feita por Francesca Palmeira. A última atualização foi feita em 16/04/2025.
 
 <img src="logo_email.png" width="40" height="40" /> [francesca@alumni.usp.br](mailto:francesca@alumni.usp.br)
