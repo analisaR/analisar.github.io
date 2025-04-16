@@ -4,7 +4,7 @@ A analisaR é uma empresa recém-criada para a prestação de serviços em anál
 
 ### Francesca Palmeira - Minibio
 
-Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de experiência em atividades de pesquisa, ensino e extensão. Tenho experiência em Ecologia Aplicada, Modelagem Ecológica e Biologia da Conservação. Trabalho com as linguagens R e BUGS e com outras ferramentas de análise de dados, especialmente as versões livres. Ofereço treinamento e mentoria para estudantes por meio das [RLadies Ribeirão Preto](https://www.meetup.com/rladies-ribeirao-preto) que faz parte das [RLadies Global](https://rladies.org), uma organização sem fins lucrativos que tem a finalidade de promover o uso da linguagem R entre grupos subrepresentados. Também faço parte do programa [rOpenSci Champions 2023-2024](https://ropensci.org/blog/2024/02/15/champions-program-champions-2024/), apoiado pela iniciativa Chan Zuckerberg, e como parte desse treinamento estou desenvolvendo um pacote no R para medir o potencial de conflito entre grupos de interesse. Para mais informações, consulte a minha [página pessoal](https://fblpalmeira.github.io). 
+Francesca é uma mistura de bióloga de campo e de computador com mais de vinte anos de experiência em atividades de pesquisa, ensino e extensão. Tem experiência em Ecologia Aplicada, Modelagem Ecológica e Biologia da Conservação. Trabalha com as linguagens R e BUGS e com outras ferramentas de análise de dados, especialmente as versões livres. Oferece treinamento e mentoria para estudantes por meio das [RLadies Ribeirão Preto](https://www.meetup.com/rladies-ribeirao-preto) que faz parte das [RLadies Global](https://rladies.org), uma organização sem fins lucrativos que tem a finalidade de promover o uso da linguagem R entre grupos subrepresentados. Também fez parte do programa [rOpenSci Champions 2023-2024](https://ropensci.org/blog/2024/02/15/champions-program-champions-2024/), apoiado pela iniciativa Chan Zuckerberg, e como parte desse treinamento desenvolveu um pacote no R para medir o potencial de conflito entre grupos de interesse. Para mais informações, consulte a sua [página pessoal](https://fblpalmeira.github.io). 
 
 ## Serviços oferecidos
 
@@ -90,10 +90,32 @@ Sou uma mistura de bióloga de campo e de computador com mais de vinte anos de e
   - [Dendograma](https://github.com/fblpalmeira/number_of_extinctions)
   - [Arte experimental no R](https://github.com/fblpalmeira/aRtsy)
 
-Para mais informações sobre as minhas habilidades em análise e visualização de dados, acesse o meu [repositório no GitHub](https://github.com/fblpalmeira).
+Para mais informações, acesse o [repositório](https://github.com/fblpalmeira) de Francesca no GitHub.
 
 ## Trabalhos realizados
 
+### Instituto de Conservação de Animais Silvestres
+
+Construção de modelos espacialmente explícitos de captura e recaptura (secr) do tatu-canastra no Parque Estadual do Rio Doce para o Instituto de Conservação de Animais Silvestres – ICAS. 
+
+### Instituto Pró-carnívoros
+
+Elaboração de mapas de amostragem por armadilhamento fotográfico para o monitoramento de fauna do Projeto da Engie Brasil, executado pelo Programa Amigos da Onça, Instituto Pró-carnívoros. 
+
+### Instituto Onça-pintada 
+
+Reaização de análises de dados de movimento das onças-pintadas monitoradas com colares GPS no Projeto Corredor das Onças do Instituto Onça-pintada (IOP).
+
+Preprint: Palmeira FBL, Jacomo AT, Trinca CT, de Araujo GR, Alves GB, de Oliveira G, Moreira RA and Silveira L. Jaguar Habitat Use and Behavior in Agricultural Land. [Available at SSRN](https://ssrn.com/abstract=4841901).
+
+### Informações adicionais
+
+Antes de atuar pela analisaR, também prestei serviços em:
+
+- (i) análise de dados de movimento animal de onças-pardas e onças-pintadas na Caatinga para o Programa Amigos da Onça (Instituto Pró-Carnívoros); e,
+  
+- (ii) análise de dados de indicadores socioambientais de seis unidades de conservação do mosaico de áreas protegidas do Baixo Rio Negro para o Instituto Socioambiental (ISA).
+ 
 ### Grupo NSC (FIP Avaliação)
 
 Por meio do Grupo Natureza, Conservação e Sociedade (Grupo NSC), analisei os indicadores de desempenho de oito mega projetos no Cerrado que fazem parte do [PIB/FIP (Plano de Investimentos do Brasil para o Fundo de Investimento Florestal)](http://fip.mma.gov.br). Foi uma grande oportunidade poder avaliar o sucesso das ações de conservação promovidas por uma iniciativa que faz parte de um programa internacional de longo prazo. 
@@ -106,20 +128,6 @@ Confira a [Oficina Intersetorial Reflexões sobre o Avanço dos Projetos - FIP M
 
 Confira também a [Oficina FIP DGM-CAR no âmbito do Programa de Investimento Florestal do Brasil PIB/FIP](https://www.youtube.com/watch?v=LLSkK0nQH0Q).
 
-### Instituto Onça-pintada 
-
-Analisei os dados de movimento das onças-pintadas monitoradas com colares GPS no Projeto Corredor das Onças do Instituto Onça-pintada (IOP).
-
-Preprint: Palmeira FBL, Jacomo AT, Trinca CT, de Araujo GR, Alves GB, de Oliveira G, Moreira RA and Silveira L. Jaguar Habitat Use and Behavior in Agricultural Land. [Available at SSRN](https://ssrn.com/abstract=4841901).
-
-### Informações adicionais
-
-Antes de atuar pela analisaR, também prestei serviços em:
-
-- (i) análise de dados de movimento animal de onças-pardas e onças-pintadas na Caatinga para o Programa Amigos da Onça (Instituto Pró-Carnívoros); e,
-  
-- (ii) análise de dados de indicadores socioambientais de seis unidades de conservação do mosaico de áreas protegidas do Baixo Rio Negro para o Instituto Socioambiental (ISA).
- 
 ## Mídias sociais
 
 <img src="logo_instagram.png" width="40" height="40"/> [analisar_dados](https://www.instagram.com/analisar_dados) 
