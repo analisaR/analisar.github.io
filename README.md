@@ -108,14 +108,6 @@ Reaização de análises de dados de movimento das onças-pintadas monitoradas c
 
 Preprint: Palmeira FBL, Jacomo AT, Trinca CT, de Araujo GR, Alves GB, de Oliveira G, Moreira RA and Silveira L. Jaguar Habitat Use and Behavior in Agricultural Land. [Available at SSRN](https://ssrn.com/abstract=4841901).
 
-### Informações adicionais
-
-Antes de atuar pela analisaR, também prestei serviços em:
-
-- (i) análise de dados de movimento animal de onças-pardas e onças-pintadas na Caatinga para o Programa Amigos da Onça (Instituto Pró-Carnívoros); e,
-  
-- (ii) análise de dados de indicadores socioambientais de seis unidades de conservação do mosaico de áreas protegidas do Baixo Rio Negro para o Instituto Socioambiental (ISA).
- 
 ### Grupo NSC (FIP Avaliação)
 
 Por meio do Grupo Natureza, Conservação e Sociedade (Grupo NSC), analisei os indicadores de desempenho de oito mega projetos no Cerrado que fazem parte do [PIB/FIP (Plano de Investimentos do Brasil para o Fundo de Investimento Florestal)](http://fip.mma.gov.br). Foi uma grande oportunidade poder avaliar o sucesso das ações de conservação promovidas por uma iniciativa que faz parte de um programa internacional de longo prazo. 
@@ -128,6 +120,14 @@ Confira a [Oficina Intersetorial Reflexões sobre o Avanço dos Projetos - FIP M
 
 Confira também a [Oficina FIP DGM-CAR no âmbito do Programa de Investimento Florestal do Brasil PIB/FIP](https://www.youtube.com/watch?v=LLSkK0nQH0Q).
 
+### Informações adicionais
+
+Antes de atuar pela analisaR, também prestei serviços em:
+
+- (i) análise de dados de movimento animal de onças-pardas e onças-pintadas na Caatinga para o Programa Amigos da Onça (Instituto Pró-Carnívoros); e,
+  
+- (ii) análise de dados de indicadores socioambientais de seis unidades de conservação do mosaico de áreas protegidas do Baixo Rio Negro para o Instituto Socioambiental (ISA).
+ 
 ## Mídias sociais
 
 <img src="logo_instagram.png" width="40" height="40"/> [analisar_dados](https://www.instagram.com/analisar_dados) 
